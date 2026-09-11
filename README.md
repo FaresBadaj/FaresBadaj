@@ -4,8 +4,6 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Red+Team+Operator;Active+Directory+%26+Multi-Cloud+Security;Penetration+Tester+Specialist;CTF+Player+%40+FlagYard;EDR%2FAV+Evasion+%26+Kernel+Research" alt="Typing SVG" />
   </a>
-  <br><br>
-  <img src="https://raw.githubusercontent.com/FaresBadaj/FaresBadaj/main/assets/hacker-c2.svg" alt="Hacker animated at C2 rig with 3 monitors, typing on keyboard" width="760" />
 </div>
 
 <br>
