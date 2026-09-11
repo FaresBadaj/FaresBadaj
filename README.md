@@ -105,13 +105,6 @@
 
 </div>
 
-#### Training (من السيرة الذاتية)
-[![Extreme Red Team SUMMUS](https://img.shields.io/badge/Extreme_Red_Team_SUMMUS-556?style=flat-square&labelColor=0d1117)](https://www.credly.com/users/faresbadaj)
-[![CISSP](https://img.shields.io/badge/CISSP-556?style=flat-square&labelColor=0d1117)](https://www.credly.com/users/faresbadaj)
-[![CLLMSE](https://img.shields.io/badge/LLM_Security_Expert-556?style=flat-square&labelColor=0d1117)](https://www.credly.com/users/faresbadaj)
-[![Microsoft Python Dev](https://img.shields.io/badge/Microsoft_Python_Dev-556?style=flat-square&labelColor=0d1117)](https://www.credly.com/users/faresbadaj)
-[![IBM Ethical Hacking](https://img.shields.io/badge/IBM_Ethical_Hacking-556?style=flat-square&labelColor=0d1117)](https://www.credly.com/users/faresbadaj)
-
 ### ⏳ In Progress
 [![OSCP](https://img.shields.io/badge/OSCP-In_Progress-ff3333?style=for-the-badge&labelColor=0d1117)](https://www.offsec.com)
 [![OSEP](https://img.shields.io/badge/OSEP-In_Progress-ff3333?style=for-the-badge&labelColor=0d1117)](https://www.offsec.com)
