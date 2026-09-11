@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=200&section=header&text=Fares%20Badaj&fontSize=50&fontColor=00ff41&animation=fadeIn&fontAlignY=38&desc=Red%20Team%20Operator%20%7C%20Penetration%20Tester%20Specialist&descAlignY=58&descColor=ffffff" alt="Header" />
   <br>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Red+Team+Operator;Penetration+Tester+Specialist+Bug+Bounty+Hunter;CTF+Player+%40+FlagYard;Offensive+Security+Researcher;Always+Learning" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Red+Team+Operator;Active+Directory+%26+Multi-Cloud+Security;Penetration+Tester+Specialist;CTF+Player+%40+FlagYard;Offensive+Security+Researcher" alt="Typing SVG" />
   </a>
 </div>
 
@@ -12,16 +12,13 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FaresBadaj)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ptok3)
 [![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/faresbadaj)
+[![Email](https://img.shields.io/badge/Email-faresbadaj%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faresbadaj@gmail.com)
 
 </div>
 
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=FaresBadaj&label=Profile%20Views&color=00ff41&style=flat-square)
-
-<!-- عدّل هذه الشارات بناءً على إنجازاتك الحقيقية -->
-[![TryHackMe - Top 1%](https://img.shields.io/badge/TryHackMe-Top_1%25-00AEEF?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/yourusername)
-[![HackTheBox - Active Player](https://img.shields.io/badge/HackTheBox-Active_Player-9FEF00?style=flat-square&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/yourid)
 
 </div>
 
@@ -34,10 +31,12 @@
 └─$ whoami
 
   ⚔️  Red Team Operator | Penetration Tester Specialist
-  🔴  Web / Mobile / API / Network Pentesting | Bug Bounty
+  🏰  Active Directory & Multi-Cloud (AWS · Azure · GCP) Attack Chains
+  🧠  Kerberos Abuse · Pivoting & Tunneling · EDR/AV Evasion Research
+  🎓  BSc Cybersecurity & Networks — University of Science and Technology (2026)
+  🏅  Certified Extreme Red Team (SUMMUS) → OSCP · OSEP · CRTP · CRTE · CRTO
   🏁  CTF Player @ FlagYard | Writeups & Solver Scripts
-  🔬  Reverse Engineering | Binary Analysis
-  📍  Based in <City>, <Country>            <!-- عدّل -->
+  📍  Based in Riyadh, Saudi Arabia
 ```
 
 ---
@@ -46,72 +45,103 @@
 
 <table align="center">
   <tr>
-    <th>Offensive Security</th>
+    <th>Red Team Operations</th>
     <th>Assessment Types</th>
     <th>Specializations</th>
   </tr>
   <tr>
-    <td>Web Application Pentesting</td>
-    <td>White Box</td>
-    <td>OWASP Top 10</td>
-  </tr>
-  <tr>
-    <td>Mobile Pentesting (APK/IPA)</td>
-    <td>Grey Box</td>
-    <td>Business Logic Flaws</td>
-  </tr>
-  <tr>
-    <td>API Security Testing</td>
+    <td>Active Directory Exploitation</td>
     <td>Black Box</td>
-    <td>Source Code Review</td>
+    <td>Kerberos Attacks · Delegation Abuse · Golden/Silver Tickets</td>
   </tr>
   <tr>
-    <td>Network Pentesting</td>
+    <td>Multi-Cloud Attacks (AWS · Azure · GCP)</td>
+    <td>White Box</td>
+    <td>Managed Identity Abuse · OAuth Token Manipulation · IMDS</td>
+  </tr>
+  <tr>
+    <td>Web & API Penetration Testing</td>
+    <td>Grey Box</td>
+    <td>OWASP Top 10 · Business Logic Flaws</td>
+  </tr>
+  <tr>
+    <td>Network Pentesting & Pivoting</td>
     <td>VAPT</td>
-    <td>Red Team Operations</td>
+    <td>Ligolo-ng · SSH Multi-Hop · Segmentation Bypass</td>
+  </tr>
+  <tr>
+    <td>Evasion & Persistence (Lab Research)</td>
+    <td>Source Code Review</td>
+    <td>EDR/AV Bypass · Process Injection · Kernel-Level PoCs</td>
   </tr>
   <tr>
     <td>Reverse Engineering</td>
     <td>Bug Bounty</td>
-    <td>CTF Challenges</td>
+    <td>Binary & Malware Analysis · CTF Challenges</td>
   </tr>
 </table>
 
 ---
 
+## 🎖️ Certifications
+
+<div align="center">
+
+### ✅ Certified
+[![Extreme Red Team SUMMUS](https://img.shields.io/badge/Extreme_Red_Team_SUMMUS-Certified-00ff41?style=for-the-badge&labelColor=0d1117)](https://www.credly.com/users/faresbadaj)
+[![CISSP](https://img.shields.io/badge/CISSP-Certified-00ff41?style=for-the-badge&labelColor=0d1117)](https://www.credly.com/users/faresbadaj)
+[![CLLMSE - LLM Security Expert](https://img.shields.io/badge/LLM_Security_Expert-Certified-00ff41?style=for-the-badge&labelColor=0d1117)](https://www.credly.com/users/faresbadaj)
+[![IBM GenAI for Cybersecurity](https://img.shields.io/badge/IBM_GenAI_Cybersecurity-Certified-00ff41?style=for-the-badge&labelColor=0d1117)](https://www.credly.com/users/faresbadaj)
+[![IBM Cybersecurity Analyst](https://img.shields.io/badge/IBM_Cybersecurity_Analyst-Certified-00ff41?style=for-the-badge&labelColor=0d1117)](https://www.credly.com/users/faresbadaj)
+[![IBM Ethical Hacking](https://img.shields.io/badge/IBM_Ethical_Hacking-Certified-00ff41?style=for-the-badge&labelColor=0d1117)](https://www.credly.com/users/faresbadaj)
+[![Cisco Ethical Hacking](https://img.shields.io/badge/Cisco_Ethical_Hacking-Certified-00ff41?style=for-the-badge&labelColor=0d1117)](https://www.credly.com/users/faresbadaj)
+[![Cisco Python](https://img.shields.io/badge/Cisco_Python-Certified-00ff41?style=for-the-badge&labelColor=0d1117)](https://www.credly.com/users/faresbadaj)
+[![CCNA 1 · 2 · 3](https://img.shields.io/badge/CCNA_1_2_3-Certified-00ff41?style=for-the-badge&labelColor=0d1117)](https://www.credly.com/users/faresbadaj)
+[![Aviatrix Multi-Cloud Networking](https://img.shields.io/badge/Aviatrix_Multi_Cloud-Certified-00ff41?style=for-the-badge&labelColor=0d1117)](https://www.credly.com/users/faresbadaj)
+[![Google Cybersecurity V2](https://img.shields.io/badge/Google_Cybersecurity-Certified-00ff41?style=for-the-badge&labelColor=0d1117)](https://www.credly.com/users/faresbadaj)
+[![Google IT Support V3](https://img.shields.io/badge/Google_IT_Support-Certified-00ff41?style=for-the-badge&labelColor=0d1117)](https://www.credly.com/users/faresbadaj)
+[![Microsoft Python Dev](https://img.shields.io/badge/Microsoft_Python_Dev-Certified-00ff41?style=for-the-badge&labelColor=0d1117)](https://www.credly.com/users/faresbadaj)
+
+### ⏳ In Progress
+[![OSCP](https://img.shields.io/badge/OSCP-In_Progress-ff3333?style=for-the-badge&labelColor=0d1117)](https://www.offsec.com)
+[![OSEP](https://img.shields.io/badge/OSEP-In_Progress-ff3333?style=for-the-badge&labelColor=0d1117)](https://www.offsec.com)
+[![CRTP](https://img.shields.io/badge/CRTP-In_Progress-ff3333?style=for-the-badge&labelColor=0d1117)](https://www.alteredsecurity.com)
+[![CRTE](https://img.shields.io/badge/CRTE-In_Progress-ff3333?style=for-the-badge&labelColor=0d1117)](https://www.alteredsecurity.com)
+[![CRTO](https://img.shields.io/badge/CRTO-In_Progress-ff3333?style=for-the-badge&labelColor=0d1117)](https://training.zeropointsecurity.co.uk)
+
+<!-- بدّل روابط الشهادات فوق بروابط شاراتك الفردية من credly.com/badges/... كل واحدة فيها رابطها الخاص -->
+</div>
+
 ## <img src="https://i.postimg.cc/ZKWgR2M9/Software-Tools.gif" width="45" /> Tools & Arsenal
 
-### 🔴 Offensive & Pentesting Tools
+### 🏰 Active Directory & Credential Attacks
+[![BloodHound](https://img.shields.io/badge/BloodHound-black?style=for-the-badge&color=121014)](https://github.com/SpecterOps/BloodHound)
+[![SharpHound](https://img.shields.io/badge/SharpHound-black?style=for-the-badge&color=121014)](https://github.com/SpecterOps/BloodHound)
+[![RustHound](https://img.shields.io/badge/RustHound-black?style=for-the-badge&color=121014)](https://github.com/NHAS/RustHound)
+[![Impacket](https://img.shields.io/badge/Impacket-black?style=for-the-badge&color=121014)](https://github.com/fortra/impacket)
+[![Mimikatz](https://img.shields.io/badge/Mimikatz-black?style=for-the-badge&color=121014)](https://github.com/gentilkiwi/mimikatz)
+[![Rubeus](https://img.shields.io/badge/Rubeus-black?style=for-the-badge&color=121014)](https://github.com/GhostPack/Rubeus)
+[![LaZagne](https://img.shields.io/badge/LaZagne-black?style=for-the-badge&color=121014)](https://github.com/AlessandroZ/LaZagne)
+[![NetExec](https://img.shields.io/badge/NetExec-black?style=for-the-badge&color=121014)](https://www.netexec.wiki)
+[![Evil-WinRM](https://img.shields.io/badge/Evil_WinRM-black?style=for-the-badge&color=121014)](https://github.com/Hackplayers/evil-winrm)
+[![Adidnsdump](https://img.shields.io/badge/Adidnsdump-black?style=for-the-badge&color=121014)](https://github.com/dirkjanm/adidnsdump)
+
+### 🎭 C2, Phishing & Pivoting
+[![Ligolo-ng](https://img.shields.io/badge/Ligolo_ng-black?style=for-the-badge&color=121014)](https://github.com/nicocha30/ligolo-ng)
+[![Adaptix C2](https://img.shields.io/badge/Adaptix_C2-black?style=for-the-badge&color=121014)](https://github.com/Adaptix-Framework/Adaptix)
+[![Beacons & Implants](https://img.shields.io/badge/Beacons__Implants-black?style=for-the-badge&color=121014)](https://github.com/topics/command-control)
+[![SSH Multi-Hop Tunneling](https://img.shields.io/badge/SSH_Multi_Hop_Tunneling-black?style=for-the-badge&color=121014)](https://www.ssh.com/academy/ssh/tunneling)
+
+### 🔴 Offensive & Pentesting
 [![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white)](https://portswigger.net)
 [![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)](https://www.metasploit.com)
 [![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)](https://nmap.org)
 [![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)](https://www.wireshark.org)
-[![SQLmap](https://img.shields.io/badge/SQLmap-CC0000?style=for-the-badge&logo=database&logoColor=white)](https://sqlmap.org)
-[![Hashcat](https://img.shields.io/badge/Hashcat-FF4500?style=for-the-badge&logo=hashcat&logoColor=white)](https://hashcat.net)
-[![John the Ripper](https://img.shields.io/badge/John_the_Ripper-black?style=for-the-badge&logo=linux&logoColor=red)](https://www.openwall.com/john/)
-[![Gobuster](https://img.shields.io/badge/Gobuster-00CED1?style=for-the-badge&logo=go&logoColor=white)](https://github.com/OJ/gobuster)
-[![FFuf](https://img.shields.io/badge/FFuf-green?style=for-the-badge&logo=fastapi&logoColor=white)](https://github.com/ffuf/ffuf)
-[![Nuclei](https://img.shields.io/badge/Nuclei-black?style=for-the-badge&logo=linux&logoColor=lime)](https://github.com/projectdiscovery/nuclei)
-
-### 📱 Mobile Security
-[![Frida](https://img.shields.io/badge/Frida-00B4AB?style=for-the-badge&logo=javascript&logoColor=white)](https://frida.re)
-[![MobSF](https://img.shields.io/badge/MobSF-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/MobSF/Mobile-Security-Framework-MobSF)
-[![JADX](https://img.shields.io/badge/JADX-4CAF50?style=for-the-badge&logo=android&logoColor=white)](https://github.com/skylot/jadx)
-[![APKTool](https://img.shields.io/badge/APKTool-A4C639?style=for-the-badge&logo=android&logoColor=white)](https://apktool.org)
-[![Objection](https://img.shields.io/badge/Objection-FF6B35?style=for-the-badge&logo=mobile&logoColor=white)](https://github.com/sensepost/objection)
 
 ### 🔬 Forensics & Reverse Engineering
 [![Ghidra](https://img.shields.io/badge/Ghidra-FF0000?style=for-the-badge&logo=nsa&logoColor=white)](https://ghidra-sre.org)
-[![Volatility3](https://img.shields.io/badge/Volatility3-8B008B?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/volatilityfoundation/volatility3)
-[![Binwalk](https://img.shields.io/badge/Binwalk-black?style=for-the-badge&logo=gnu&logoColor=lime)](https://github.com/ReFirmLabs/binwalk)
-[![Strings](https://img.shields.io/badge/Strings-555555?style=for-the-badge&logo=gnu&logoColor=white)](https://www.gnu.org)
 [![x64dbg](https://img.shields.io/badge/x64dbg-black?style=for-the-badge&logo=linux&logoColor=lime)](https://x64dbg.com)
-
-### 🌐 Network & Vulnerability Scanning
-[![Nessus](https://img.shields.io/badge/Nessus-00C176?style=for-the-badge&logo=tenable&logoColor=white)](https://www.tenable.com/products/nessus)
-[![OpenVAS](https://img.shields.io/badge/OpenVAS-4CAF50?style=for-the-badge&logo=openvas&logoColor=white)](https://www.greenbone.net)
-[![Shodan](https://img.shields.io/badge/Shodan-AA0000?style=for-the-badge&logo=shodan&logoColor=white)](https://www.shodan.io)
-[![Masscan](https://img.shields.io/badge/Masscan-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://github.com/robertdavidgraham/masscan)
+[![Sysinternals](https://img.shields.io/badge/Sysinternals-black?style=for-the-badge&logo=linux&logoColor=lime)](https://learn.microsoft.com/en-us/sysinternals/)
 
 ### ⚙️ Dev & Automation Tools
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com)
