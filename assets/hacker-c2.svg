@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 400">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 545">
   <style>
     text,tspan{font-family:'Consolas','Courier New',monospace;user-select:none}
     @keyframes blink{0%,46%{opacity:1}50%,100%{opacity:0}}
@@ -7,203 +7,249 @@
     @keyframes radar{from{opacity:.85;r:2}to{opacity:0;r:28}}
     @keyframes scrollLog{0%{transform:translateY(0)}100%{transform:translateY(-14px)}}
     @keyframes pulseDot{0%,100%{opacity:1}50%{opacity:.25}}
+    @keyframes wifiWave{0%,100%{opacity:.15}50%{opacity:.9}}
+    @keyframes alertFade{0%,30%{opacity:1}70%,100%{opacity:.25}}
     .cursor{animation:blink 1s steps(1,end) infinite}
     .hand{animation:hand .32s ease-in-out infinite}
     .hand2{animation:hand .32s ease-in-out .16s infinite}
-    .headBob{animation:headBob 3s ease-in-out infinite;transform-origin:590px 135px}
+    .headBob{animation:headBob 3s ease-in-out infinite;transform-box:fill-box;transform-origin:center}
     .radar{fill:none;stroke:#00ff41;stroke-width:1;animation:radar 1.8s linear infinite}
     .dotLive{animation:pulseDot 1.4s ease-in-out infinite}
-    .logScroll{animation:scrollLog 6s linear infinite}
+    .wifi{animation:wifiWave 2.2s ease-in-out infinite}
+    .alertAni{animation:alertFade 3.4s ease-in-out infinite}
   </style>
   <defs>
-    <clipPath id="cLog"><rect x="54" y="194" width="140" height="60" rx="2"/></clipPath>
     <clipPath id="cTask"><rect x="214" y="180" width="218" height="74" rx="2"/></clipPath>
-    <clipPath id="cProxy"><rect x="450" y="180" width="158" height="74" rx="2"/></clipPath>
     <linearGradient id="monGlow" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#00ff41" stop-opacity=".07"/><stop offset="1" stop-color="#00ff41" stop-opacity="0"/></linearGradient>
     <filter id="glow"><feGaussianBlur stdDeviation="2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
   </defs>
 
-  <!-- room -->
-  <rect width="1000" height="400" fill="#080a0f"/>
+  <!-- ───────── room (absolute) ───────── -->
+  <rect width="1000" height="545" fill="#080a0f"/>
   <rect x="0" y="0" width="1000" height="10" fill="#00ff41" opacity=".15"/>
   <g stroke="#00ff41" opacity=".04" stroke-width=".5">
-    <line x1="50" y1="0" x2="50" y2="100"/><line x1="100" y1="0" x2="100" y2="100"/>
-    <line x1="150" y1="0" x2="150" y2="100"/><line x1="200" y1="0" x2="200" y2="100"/>
-    <line x1="250" y1="0" x2="250" y2="100"/><line x1="300" y1="0" x2="300" y2="100"/>
-    <line x1="0" y1="50" x2="520" y2="50"/>
+    <line x1="50" y1="0" x2="50" y2="140"/><line x1="100" y1="0" x2="100" y2="140"/>
+    <line x1="150" y1="0" x2="150" y2="140"/><line x1="200" y1="0" x2="200" y2="140"/>
+    <line x1="0" y1="70" x2="540" y2="70"/>
   </g>
-  <rect x="0" y="380" width="1000" height="20" fill="#0a0c12"/>
-  <rect x="120" y="378" width="760" height="3" rx="1.5" fill="#00ff41" opacity=".1"/>
 
-  <!-- L-shaped desk -->
-  <rect x="30" y="265" width="470" height="16" rx="4" fill="#12161d"/>
-  <rect x="30" y="281" width="12" height="99" fill="#0c0f15"/>
-  <rect x="460" y="281" width="12" height="99" fill="#0c0f15"/>
-  <rect x="488" y="265" width="172" height="12" rx="3" fill="#12161d"/>
-
-  <!-- ═══════ MONITOR 1 : LISTENERS ═══════ -->
-  <rect x="42" y="88" width="156" height="177" rx="6" fill="#141820"/>
-  <rect x="108" y="265" width="24" height="14" fill="#141820" opacity=".6"/>
-  <rect x="48" y="94" width="144" height="165" rx="3" fill="#080a10"/>
-  <!-- title bar -->
-  <rect x="48" y="94" width="144" height="14" rx="3" fill="#0e1218"/>
-  <rect x="52" y="98" width="4" height="4" rx="2" fill="#ff5f56"/>
-  <rect x="58" y="98" width="4" height="4" rx="2" fill="#ffbd2e"/>
-  <rect x="64" y="98" width="4" height="4" rx="2" fill="#27c93f"/>
-  <text x="78" y="103" fill="#00ff41" font-size="8" font-weight="bold">LISTENERS</text>
-  <rect x="160" y="98" width="28" height="5" rx="2" fill="#00ff41" opacity=".3"/>
-  <!-- listener rows -->
+  <!-- ═══════ SIEM DASHBOARD (wall, top-left) ═══════ -->
+  <rect x="16" y="16" width="306" height="112" rx="7" fill="#141820"/>
+  <rect x="162" y="128" width="14" height="8" fill="#141820" opacity=".7"/>
+  <rect x="22" y="22" width="294" height="100" rx="4" fill="#080a10"/>
+  <rect x="22" y="22" width="294" height="14" rx="4" fill="#0e1218"/>
+  <rect x="26" y="26" width="4" height="4" rx="2" fill="#ff5f56"/>
+  <rect x="32" y="26" width="4" height="4" rx="2" fill="#ffbd2e"/>
+  <rect x="38" y="26" width="4" height="4" rx="2" fill="#27c93f"/>
+  <text x="52" y="31" fill="#00c8ff" font-size="8" font-weight="bold">SIEM · SOC DASHBOARD</text>
+  <text x="242" y="31" fill="#565c68" font-size="7">EVENTS</text>
+  <text x="278" y="31" fill="#00ff41" font-size="7" class="cursor">1,284/m</text>
   <g font-size="7">
-    <text x="56" y="120" fill="#565c68">TYPE   LHOST       PORT  STATUS</text>
-    <rect x="54" y="124" width="136" height="12" rx="2" fill="#00ff41" opacity=".04"/>
-    <text x="56" y="133" fill="#00ff41" font-weight="bold">HTTPS  0.0.0.0     443</text>
-    <circle cx="184" cy="130" r="2.5" fill="#00ff41" class="dotLive"/>
-    <text x="56" y="148" fill="#00ff41" font-weight="bold">SMB    \\.\pipe\svc  0</text>
-    <circle cx="184" cy="145" r="2.5" fill="#00ff41" class="dotLive"/>
-    <text x="56" y="162" fill="#00ff41" font-weight="bold">TCP    0.0.0.0     9001</text>
-    <circle cx="184" cy="159" r="2.5" fill="#ffbd2e" class="dotLive"/>
+    <rect x="26" y="41" width="14" height="8" rx="2" fill="#ff5f56"/>
+    <text x="28" y="47" fill="#fff" font-size="5" font-weight="bold">CRIT</text>
+    <text x="44" y="47" fill="#ff6b6b" class="alertAni">T1482 DCSync → DC01</text>
+    <rect x="26" y="53" width="14" height="8" rx="2" fill="#ffbd2e"/>
+    <text x="28" y="59" fill="#111" font-size="5" font-weight="bold">HIGH</text>
+    <text x="44" y="59" fill="#ffd166" class="alertAni" style="animation-delay:1.1s">T1021 Lateral ws02</text>
+    <rect x="26" y="65" width="14" height="8" rx="2" fill="#26c6da"/>
+    <text x="28" y="71" fill="#111" font-size="5" font-weight="bold">MED</text>
+    <text x="44" y="71" fill="#7dd3fc" class="alertAni" style="animation-delay:2.2s">T1059 obfusc websrv</text>
   </g>
-  <!-- radar -->
-  <circle cx="120" cy="218" class="radar"/>
-  <circle cx="120" cy="218" class="radar" style="animation-delay:.6s"/>
-  <circle cx="120" cy="218" class="radar" style="animation-delay:1.2s"/>
-  <circle cx="120" cy="218" r="3" fill="#00ff41" filter="url(#glow)"/>
-  <text x="56" y="250" fill="#565c68" font-size="7">beacons: </text>
-  <text x="92" y="250" fill="#00ff41" font-size="7" font-weight="bold">3 active</text>
+  <polyline points="26,86 48,80 70,86 92,72 114,78 136,64 158,72 180,60 202,68 224,52 246,60 268,46 290,56"
+            stroke="#00ff41" stroke-width="1.4" fill="none" opacity=".9"/>
+  <g fill="#00ff41" opacity=".85">
+    <rect x="26" y="92" width="8" height="8" rx="1"/><rect x="38" y="90" width="8" height="10" rx="1"/>
+    <rect x="50" y="95" width="8" height="5" rx="1"/><rect x="62" y="88" width="8" height="12" rx="1"/>
+    <rect x="74" y="97" width="8" height="3" rx="1"/><rect x="86" y="86" width="8" height="14" rx="1"/>
+  </g>
+  <g font-size="6" fill="#565c68">
+    <text x="26" y="114">13:55</text>
+    <text x="170" y="114">THREAT</text>
+    <text x="208" y="114" fill="#ff5f56" font-weight="bold" class="cursor">HIGH</text>
+    <text x="258" y="114" fill="#565c68">APS</text>
+    <text x="280" y="114" fill="#00ff41">7</text>
+  </g>
 
-  <!-- ═══════ MONITOR 2 : AGENTS (main) ═══════ -->
-  <rect x="212" y="88" width="226" height="177" rx="6" fill="#141820"/>
-  <rect x="304" y="265" width="24" height="14" fill="#141820" opacity=".6"/>
-  <rect x="218" y="94" width="214" height="165" rx="3" fill="#080a10"/>
-  <!-- title bar -->
-  <rect x="218" y="94" width="214" height="14" rx="3" fill="#0e1218"/>
-  <rect x="222" y="98" width="4" height="4" rx="2" fill="#ff5f56"/>
-  <rect x="228" y="98" width="4" height="4" rx="2" fill="#ffbd2e"/>
-  <rect x="234" y="98" width="4" height="4" rx="2" fill="#27c93f"/>
-  <text x="248" y="103" fill="#00ff41" font-size="8" font-weight="bold">■ ADAPTIX C2</text>
-  <text x="392" y="103" fill="#3e4452" font-size="7">v1.3</text>
-  <!-- tabs -->
-  <rect x="218" y="108" width="214" height="11" fill="#0b0e14"/>
-  <text x="224" y="116" fill="#00ff41" font-size="7" font-weight="bold">[agents]</text>
-  <text x="262" y="116" fill="#565c68" font-size="7">[tasks]</text>
-  <text x="294" y="116" fill="#565c68" font-size="7">[creds]</text>
-  <text x="336" y="116" fill="#565c68" font-size="7">[files]</text>
-  <text x="376" y="116" fill="#565c68" font-size="7">[targets]</text>
-  <!-- agent table -->
-  <g font-size="7">
-    <text x="224" y="132" fill="#565c68">ID  HOST       OS     PROC        LAST</text>
-    <rect x="222" y="135" width="206" height="12" rx="1" fill="#00ff41" opacity=".06"/>
-    <text x="224" y="144" fill="#00ff41" font-weight="bold">1   DC01       win10  svchost     4s</text>
-    <text x="224" y="156" fill="#00ff41">2   WS02       win11  explorer    12s</text>
-    <text x="224" y="168" fill="#00ffe7">3   WEB01      linux  nginx       7s</text>
-  </g>
-  <circle cx="420" cy="141" r="2.5" fill="#00ff41" class="dotLive"/>
-  <circle cx="420" cy="153" r="2.5" fill="#00ff41" class="dotLive" style="animation-delay:.3s"/>
-  <circle cx="420" cy="165" r="2.5" fill="#00ffe7" class="dotLive" style="animation-delay:.7s"/>
-  <!-- task output -->
-  <rect x="222" y="180" width="206" height="76" rx="2" fill="#0b0e14"/>
-  <text x="228" y="190" fill="#ffd166" font-size="7" font-weight="bold">▸ TASK OUTPUT — DC01</text>
-  <g clip-path="url(#cTask)">
-    <g class="logScroll" font-size="7">
-      <text x="228" y="202" fill="#888e9a">[14:02:01] shell whoami</text>
-      <text x="228" y="212" fill="#c9d1d9">      nt authority\system</text>
-      <text x="228" y="222" fill="#888e9a">[14:02:03] hashdump</text>
-      <text x="228" y="232" fill="#c9d1d9">      Admin:500:aad3b...:b4b9...</text>
-      <text x="228" y="242" fill="#888e9a">[14:02:06] inject msf</text>
-      <text x="228" y="252" fill="#27c93f">      [+] payload staged → 10.0.0.5</text>
+  <!-- ═══════ WIFI MODEM (wall, top-right) ═══════ -->
+  <g>
+    <rect x="776" y="46" width="132" height="58" rx="8" fill="#141820"/>
+    <rect x="784" y="54" width="116" height="34" rx="3" fill="#0b0e14"/>
+    <text x="792" y="66" fill="#00ff41" font-size="7" font-weight="bold">MODEM</text>
+    <text x="792" y="80" fill="#565c68" font-size="6">WiFi AP · 2.4 / 5 GHz</text>
+    <circle cx="848" cy="62" r="3" fill="#00ff41" class="dotLive"/>
+    <circle cx="860" cy="62" r="3" fill="#27c93f" class="dotLive" style="animation-delay:.4s"/>
+    <circle cx="872" cy="62" r="3" fill="#00c8ff" class="dotLive" style="animation-delay:.8s"/>
+    <circle cx="884" cy="62" r="3" fill="#ff5f56" class="dotLive" style="animation-delay:1.2s"/>
+    <g fill="#2a3140">
+      <rect x="794" y="92" width="26" height="7" rx="2"/><rect x="824" y="92" width="26" height="7" rx="2"/>
+      <rect x="854" y="92" width="26" height="7" rx="2"/>
     </g>
-  </g>
-  <text x="228" y="266" fill="#00ff41" font-size="7">adaptix▸ </text>
-  <text x="276" y="266" fill="#00ff41" font-size="7" class="cursor">▉</text>
-
-  <!-- ═══════ MONITOR 3 : PROXY / TARGETS ═══════ -->
-  <rect x="448" y="88" width="166" height="177" rx="6" fill="#141820"/>
-  <rect x="512" y="265" width="24" height="14" fill="#141820" opacity=".6"/>
-  <rect x="454" y="94" width="154" height="165" rx="3" fill="#080a10"/>
-  <!-- title bar -->
-  <rect x="454" y="94" width="154" height="14" rx="3" fill="#0e1218"/>
-  <rect x="458" y="98" width="4" height="4" rx="2" fill="#ff5f56"/>
-  <rect x="464" y="98" width="4" height="4" rx="2" fill="#ffbd2e"/>
-  <rect x="470" y="98" width="4" height="4" rx="2" fill="#27c93f"/>
-  <text x="484" y="103" fill="#ffd166" font-size="8" font-weight="bold">PROXY + TARGETS</text>
-  <!-- socks -->
-  <rect x="458" y="112" width="146" height="32" rx="2" fill="#0b0e14"/>
-  <g font-size="7">
-    <text x="462" y="122" fill="#565c68">SOCKS5  10.0.0.5:1080  ●</text>
-    <text x="462" y="132" fill="#565c68">SOCKS5  10.0.0.12:1080 ●</text>
-    <circle cx="594" cy="119" r="2" fill="#00ff41" class="dotLive"/>
-    <circle cx="594" cy="129" r="2" fill="#00ff41" class="dotLive" style="animation-delay:.5s"/>
-  </g>
-  <!-- targets -->
-  <text x="462" y="158" fill="#00c8ff" font-size="7" font-weight="bold">▸ TARGETS</text>
-  <g font-size="7">
-    <text x="462" y="169" fill="#c9d1d9">10.0.0.1  DC       AD</text>
-    <text x="462" y="179" fill="#c9d1d9">10.0.0.5  WS02     WORKST</text>
-    <text x="462" y="189" fill="#c9d1d9">10.0.0.12 WS03     WORKST</text>
-    <text x="462" y="199" fill="#00ffe7">10.0.0.9  WEB01    LINUX</text>
-  </g>
-  <!-- creds -->
-  <rect x="458" y="212" width="146" height="44" rx="2" fill="#0b0e14"/>
-  <text x="462" y="222" fill="#ffd166" font-size="7" font-weight="bold">▸ CREDS</text>
-  <g font-size="7">
-    <text x="462" y="233" fill="#ff6b6b">admin  :  P@ssw0rd!</text>
-    <text x="462" y="243" fill="#ff6b6b">svc$   :  D0mainPr0d</text>
-    <text x="462" y="253" fill="#ff6b6b">root   :  r00tP@55</text>
+    <text x="788" y="110" fill="#565c68" font-size="6">WAN LAN  LAN</text>
+    <path d="M784 46 L774 24" stroke="#171c26" stroke-width="3.6" stroke-linecap="round"/>
+    <path d="M900 46 L906 22" stroke="#171c26" stroke-width="3.6" stroke-linecap="round"/>
+    <circle cx="777" cy="24" r="4" fill="#202633"/>
+    <circle cx="909" cy="22" r="4" fill="#202633"/>
+    <path d="M788 26 L779 4" stroke="#ffd166" stroke-width="2" fill="none" opacity=".8"/>
+    <path d="M892 24 L892 2" stroke="#ffd166" stroke-width="2" fill="none" opacity=".8"/>
+    <g fill="none" stroke="#00ff41" stroke-width="2.4" stroke-linecap="round">
+      <path d="M826 14 A30 30 0 0 1 886 14" class="wifi"/>
+      <path d="M834 23 A20 20 0 0 1 878 23" class="wifi" style="animation-delay:.35s"/>
+      <path d="M842 32 A10 10 0 0 1 870 32" class="wifi" style="animation-delay:.7s"/>
+    </g>
+    <circle cx="856" cy="40" r="3" fill="#00ff41" class="wifi" style="animation-delay:1.05s"/>
+    <path d="M792 104 C742 170 700 300 690 400" stroke="#00ff41" stroke-width="1.4" stroke-dasharray="4 5" fill="none" opacity=".25"/>
   </g>
 
-  <!-- ═══════ ATTACKER (side profile, facing monitors) ═══════ -->
-  <!-- chair -->
-  <rect x="664" y="200" width="18" height="76" rx="4" fill="#141820"/>
-  <rect x="636" y="266" width="84" height="12" rx="3" fill="#141820"/>
-  <rect x="648" y="278" width="8" height="102" fill="#0c0f15"/>
-  <rect x="732" y="278" width="8" height="102" fill="#0c0f15"/>
-  <rect x="720" y="274" width="30" height="8" rx="2" fill="#1a1e28"/>
+  <!-- ───────── desk scene (shifted down) ───────── -->
+  <g transform="translate(0,140)">
+    <rect x="120" y="378" width="760" height="3" rx="1.5" fill="#00ff41" opacity=".1"/>
 
-  <g class="headBob">
-    <!-- hoodie body (side view, facing left) -->
-    <path d="M650 172 C642 172 630 180 628 200 L626 268 L740 268 L742 200 C740 180 728 172 720 172 L650 172 Z" fill="#0f3d24"/>
-    <path d="M642 180 C636 190 634 210 634 220" stroke="#0a2c1a" stroke-width="3" fill="none"/>
-    <path d="M726 176 Q736 166 740 140" stroke="#0f3d24" stroke-width="14" fill="none" stroke-linecap="round"/>
-    <text x="670" y="230" fill="#00ff41" font-size="8" transform="rotate(-90 670 230)">ADAPTIX</text>
+    <!-- L-shaped desk -->
+    <rect x="30" y="265" width="470" height="16" rx="4" fill="#12161d"/>
+    <rect x="30" y="281" width="12" height="99" fill="#0c0f15"/>
+    <rect x="460" y="281" width="12" height="99" fill="#0c0f15"/>
+    <rect x="488" y="265" width="172" height="12" rx="3" fill="#12161d"/>
 
-    <!-- hood behind head -->
-    <ellipse cx="700" cy="112" rx="52" ry="54" fill="#0f3d24"/>
-    <!-- head (side profile facing left) -->
-    <ellipse cx="688" cy="116" rx="36" ry="38" fill="#d4a574"/>
-    <!-- face details (side) -->
-    <path d="M652 112 Q648 100 660 96" stroke="#c4956a" stroke-width="3" fill="none"/>
-    <circle cx="662" cy="110" r="3" fill="#111"/>
-    <circle cx="662" cy="110" r="1.2" fill="#fff"/>
-    <path d="M650 116 Q644 114 642 120" stroke="#b8896a" stroke-width="1.5" fill="none"/>
-    <path d="M656 128 Q648 132 644 128" stroke="#a07858" stroke-width="1.8" fill="none" stroke-linecap="round"/>
-    <!-- headset band -->
-    <path d="M652 96 Q690 72 730 96" stroke="#c8102e" stroke-width="5" fill="none"/>
-    <rect x="648" y="100" width="12" height="22" rx="6" fill="#c8102e"/>
-    <rect x="724" y="100" width="12" height="22" rx="6" fill="#c8102e"/>
+    <!-- MONITOR 1 : LISTENERS -->
+    <rect x="42" y="88" width="156" height="177" rx="6" fill="#141820"/>
+    <rect x="108" y="265" width="24" height="14" fill="#141820" opacity=".6"/>
+    <rect x="48" y="94" width="144" height="165" rx="3" fill="#080a10"/>
+    <rect x="48" y="94" width="144" height="14" rx="3" fill="#0e1218"/>
+    <rect x="52" y="98" width="4" height="4" rx="2" fill="#ff5f56"/>
+    <rect x="58" y="98" width="4" height="4" rx="2" fill="#ffbd2e"/>
+    <rect x="64" y="98" width="4" height="4" rx="2" fill="#27c93f"/>
+    <text x="78" y="103" fill="#00ff41" font-size="8" font-weight="bold">LISTENERS</text>
+    <rect x="160" y="98" width="28" height="5" rx="2" fill="#00ff41" opacity=".3"/>
+    <g font-size="7">
+      <text x="56" y="120" fill="#565c68">TYPE   LHOST       PORT  STATUS</text>
+      <rect x="54" y="124" width="136" height="12" rx="2" fill="#00ff41" opacity=".04"/>
+      <text x="56" y="133" fill="#00ff41" font-weight="bold">HTTPS  0.0.0.0     443</text>
+      <circle cx="184" cy="130" r="2.5" fill="#00ff41" class="dotLive"/>
+      <text x="56" y="148" fill="#00ff41" font-weight="bold">SMB    \\.\pipe\svc  0</text>
+      <circle cx="184" cy="145" r="2.5" fill="#00ff41" class="dotLive"/>
+      <text x="56" y="162" fill="#00ff41" font-weight="bold">TCP    0.0.0.0     9001</text>
+      <circle cx="184" cy="159" r="2.5" fill="#ffbd2e" class="dotLive"/>
+    </g>
+    <circle cx="120" cy="218" class="radar"/>
+    <circle cx="120" cy="218" class="radar" style="animation-delay:.6s"/>
+    <circle cx="120" cy="218" class="radar" style="animation-delay:1.2s"/>
+    <circle cx="120" cy="218" r="3" fill="#00ff41" filter="url(#glow)"/>
+    <text x="56" y="250" fill="#565c68" font-size="7">beacons: </text>
+    <text x="92" y="250" fill="#00ff41" font-size="7" font-weight="bold">3 active</text>
+
+    <!-- MONITOR 2 : AGENTS -->
+    <rect x="212" y="88" width="226" height="177" rx="6" fill="#141820"/>
+    <rect x="304" y="265" width="24" height="14" fill="#141820" opacity=".6"/>
+    <rect x="218" y="94" width="214" height="165" rx="3" fill="#080a10"/>
+    <rect x="218" y="94" width="214" height="14" rx="3" fill="#0e1218"/>
+    <rect x="222" y="98" width="4" height="4" rx="2" fill="#ff5f56"/>
+    <rect x="228" y="98" width="4" height="4" rx="2" fill="#ffbd2e"/>
+    <rect x="234" y="98" width="4" height="4" rx="2" fill="#27c93f"/>
+    <text x="248" y="103" fill="#00ff41" font-size="8" font-weight="bold">■ ADAPTIX C2</text>
+    <text x="392" y="103" fill="#3e4452" font-size="7">v1.3</text>
+    <rect x="218" y="108" width="214" height="11" fill="#0b0e14"/>
+    <text x="224" y="116" fill="#00ff41" font-size="7" font-weight="bold">[agents]</text>
+    <text x="262" y="116" fill="#565c68" font-size="7">[tasks]</text>
+    <text x="294" y="116" fill="#565c68" font-size="7">[creds]</text>
+    <text x="336" y="116" fill="#565c68" font-size="7">[files]</text>
+    <text x="376" y="116" fill="#565c68" font-size="7">[targets]</text>
+    <g font-size="7">
+      <text x="224" y="132" fill="#565c68">ID  HOST       OS     PROC        LAST</text>
+      <rect x="222" y="135" width="206" height="12" rx="1" fill="#00ff41" opacity=".06"/>
+      <text x="224" y="144" fill="#00ff41" font-weight="bold">1   DC01       win10  svchost     4s</text>
+      <text x="224" y="156" fill="#00ff41">2   WS02       win11  explorer    12s</text>
+      <text x="224" y="168" fill="#00ffe7">3   WEB01      linux  nginx       7s</text>
+    </g>
+    <circle cx="420" cy="141" r="2.5" fill="#00ff41" class="dotLive"/>
+    <circle cx="420" cy="153" r="2.5" fill="#00ff41" class="dotLive" style="animation-delay:.3s"/>
+    <circle cx="420" cy="165" r="2.5" fill="#00ffe7" class="dotLive" style="animation-delay:.7s"/>
+    <rect x="222" y="180" width="206" height="76" rx="2" fill="#0b0e14"/>
+    <text x="228" y="190" fill="#ffd166" font-size="7" font-weight="bold">▸ TASK OUTPUT — DC01</text>
+    <g clip-path="url(#cTask)">
+      <g class="logScroll" font-size="7">
+        <text x="228" y="202" fill="#888e9a">[14:02:01] shell whoami</text>
+        <text x="228" y="212" fill="#c9d1d9">      nt authority\system</text>
+        <text x="228" y="222" fill="#888e9a">[14:02:03] hashdump</text>
+        <text x="228" y="232" fill="#c9d1d9">      Admin:500:aad3b...:b4b9...</text>
+        <text x="228" y="242" fill="#888e9a">[14:02:06] inject msf</text>
+        <text x="228" y="252" fill="#27c93f">      [+] payload staged → 10.0.0.5</text>
+      </g>
+    </g>
+    <text x="228" y="266" fill="#00ff41" font-size="7">adaptix▸ </text>
+    <text x="276" y="266" fill="#00ff41" font-size="7" class="cursor">▉</text>
+
+    <!-- MONITOR 3 : PROXY / TARGETS -->
+    <rect x="448" y="88" width="166" height="177" rx="6" fill="#141820"/>
+    <rect x="512" y="265" width="24" height="14" fill="#141820" opacity=".6"/>
+    <rect x="454" y="94" width="154" height="165" rx="3" fill="#080a10"/>
+    <rect x="454" y="94" width="154" height="14" rx="3" fill="#0e1218"/>
+    <rect x="458" y="98" width="4" height="4" rx="2" fill="#ff5f56"/>
+    <rect x="464" y="98" width="4" height="4" rx="2" fill="#ffbd2e"/>
+    <rect x="470" y="98" width="4" height="4" rx="2" fill="#27c93f"/>
+    <text x="484" y="103" fill="#ffd166" font-size="8" font-weight="bold">PROXY + TARGETS</text>
+    <rect x="458" y="112" width="146" height="32" rx="2" fill="#0b0e14"/>
+    <g font-size="7">
+      <text x="462" y="122" fill="#565c68">SOCKS5  10.0.0.5:1080  ●</text>
+      <text x="462" y="132" fill="#565c68">SOCKS5  10.0.0.12:1080 ●</text>
+      <circle cx="594" cy="119" r="2" fill="#00ff41" class="dotLive"/>
+      <circle cx="594" cy="129" r="2" fill="#00ff41" class="dotLive" style="animation-delay:.5s"/>
+    </g>
+    <text x="462" y="158" fill="#00c8ff" font-size="7" font-weight="bold">▸ TARGETS</text>
+    <g font-size="7">
+      <text x="462" y="169" fill="#c9d1d9">10.0.0.1  DC       AD</text>
+      <text x="462" y="179" fill="#c9d1d9">10.0.0.5  WS02     WORKST</text>
+      <text x="462" y="189" fill="#c9d1d9">10.0.0.12 WS03     WORKST</text>
+      <text x="462" y="199" fill="#00ffe7">10.0.0.9  WEB01    LINUX</text>
+    </g>
+    <rect x="458" y="212" width="146" height="44" rx="2" fill="#0b0e14"/>
+    <text x="462" y="222" fill="#ffd166" font-size="7" font-weight="bold">▸ CREDS</text>
+    <g font-size="7">
+      <text x="462" y="233" fill="#ff6b6b">admin  :  P@ssw0rd!</text>
+      <text x="462" y="243" fill="#ff6b6b">svc$   :  D0mainPr0d</text>
+      <text x="462" y="253" fill="#ff6b6b">root   :  r00tP@55</text>
+    </g>
+
+    <!-- ATTACKER -->
+    <rect x="664" y="200" width="18" height="76" rx="4" fill="#141820"/>
+    <rect x="636" y="266" width="84" height="12" rx="3" fill="#141820"/>
+    <rect x="648" y="278" width="8" height="102" fill="#0c0f15"/>
+    <rect x="732" y="278" width="8" height="102" fill="#0c0f15"/>
+    <rect x="720" y="274" width="30" height="8" rx="2" fill="#1a1e28"/>
+
+    <g class="headBob">
+      <path d="M650 172 C642 172 630 180 628 200 L626 268 L740 268 L742 200 C740 180 728 172 720 172 L650 172 Z" fill="#0f3d24"/>
+      <path d="M642 180 C636 190 634 210 634 220" stroke="#0a2c1a" stroke-width="3" fill="none"/>
+      <path d="M726 176 Q736 166 740 140" stroke="#0f3d24" stroke-width="14" fill="none" stroke-linecap="round"/>
+      <text x="670" y="230" fill="#00ff41" font-size="8" transform="rotate(-90 670 230)">ADAPTIX</text>
+      <ellipse cx="700" cy="112" rx="52" ry="54" fill="#0f3d24"/>
+      <ellipse cx="688" cy="116" rx="36" ry="38" fill="#d4a574"/>
+      <path d="M652 112 Q648 100 660 96" stroke="#c4956a" stroke-width="3" fill="none"/>
+      <circle cx="662" cy="110" r="3" fill="#111"/>
+      <circle cx="662" cy="110" r="1.2" fill="#fff"/>
+      <path d="M650 116 Q644 114 642 120" stroke="#b8896a" stroke-width="1.5" fill="none"/>
+      <path d="M656 128 Q648 132 644 128" stroke="#a07858" stroke-width="1.8" fill="none" stroke-linecap="round"/>
+      <path d="M652 96 Q690 72 730 96" stroke="#c8102e" stroke-width="5" fill="none"/>
+      <rect x="648" y="100" width="12" height="22" rx="6" fill="#c8102e"/>
+      <rect x="724" y="100" width="12" height="22" rx="6" fill="#c8102e"/>
+    </g>
+
+    <path d="M648 194 Q600 198 560 240" stroke="#0f3d24" stroke-width="16" stroke-linecap="round" fill="none"/>
+    <path d="M646 200 Q620 208 592 242" stroke="#d4a574" stroke-width="5" fill="none" stroke-linecap="round"/>
+    <path d="M670 200 Q640 212 620 244" stroke="#d4a574" stroke-width="5" fill="none" stroke-linecap="round"/>
+
+    <rect x="506" y="255" width="92" height="14" rx="3" fill="#1e222d"/>
+    <g stroke="#2e3342" stroke-width="1">
+      <line x1="514" y1="259" x2="590" y2="259"/>
+      <line x1="514" y1="263" x2="590" y2="263"/>
+    </g>
+    <ellipse class="hand" cx="538" cy="250" rx="10" ry="7" fill="#d4a574"/>
+    <ellipse class="hand2" cx="570" cy="250" rx="10" ry="7" fill="#d4a574"/>
+
+    <text x="640" y="80" class="cursor" fill="#00ff41" font-size="10" style="animation-delay:.2s">$</text>
+    <text x="620" y="66" class="cursor" fill="#ff6b6b" font-size="9" style="animation-delay:.9s">/</text>
+    <text x="760" y="84" class="cursor" fill="#00ff41" font-size="9" style="animation-delay:.5s">{ }</text>
+    <text x="778" y="70" class="cursor" fill="#00c8ff" font-size="8" style="animation-delay:1.3s">0x4F</text>
+
+    <rect x="42" y="265" width="572" height="30" rx="12" fill="url(#monGlow)" opacity=".4"/>
   </g>
-
-  <!-- arms reaching to keyboard -->
-  <path d="M648 194 Q600 198 560 240" stroke="#0f3d24" stroke-width="16" stroke-linecap="round" fill="none"/>
-  <path d="M646 200 Q620 208 592 242" stroke="#d4a574" stroke-width="5" fill="none" stroke-linecap="round"/>
-  <path d="M670 200 Q640 212 620 244" stroke="#d4a574" stroke-width="5" fill="none" stroke-linecap="round"/>
-
-  <!-- keyboard on desk -->
-  <rect x="506" y="255" width="92" height="14" rx="3" fill="#1e222d"/>
-  <g stroke="#2e3342" stroke-width="1">
-    <line x1="514" y1="259" x2="590" y2="259"/>
-    <line x1="514" y1="263" x2="590" y2="263"/>
-  </g>
-  <!-- hands typing (animated) -->
-  <ellipse class="hand" cx="538" cy="250" rx="10" ry="7" fill="#d4a574"/>
-  <ellipse class="hand2" cx="570" cy="250" rx="10" ry="7" fill="#d4a574"/>
-
-  <!-- floating code fx -->
-  <text x="640" y="80" class="cursor" fill="#00ff41" font-size="10" style="animation-delay:.2s">$</text>
-  <text x="620" y="66" class="cursor" fill="#ff6b6b" font-size="9" style="animation-delay:.9s">/</text>
-  <text x="760" y="84" class="cursor" fill="#00ff41" font-size="9" style="animation-delay:.5s">{ }</text>
-  <text x="778" y="70" class="cursor" fill="#00c8ff" font-size="8" style="animation-delay:1.3s">0x4F</text>
-  <text x="646" y="54" class="cursor" fill="#ffd166" font-size="8" style="animation-delay:.7s">&lt;&lt;</text>
-
-  <!-- ambient glow under monitors -->
-  <rect x="42" y="265" width="572" height="30" rx="12" fill="url(#monGlow)" opacity=".4"/>
 </svg>
