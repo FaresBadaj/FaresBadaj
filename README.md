@@ -166,6 +166,7 @@
 
 ### 🔬 Forensics & Reverse Engineering
 [![Ghidra](https://img.shields.io/badge/Ghidra-FF0000?style=for-the-badge&logo=nsa&logoColor=white)](https://ghidra-sre.org)
+[![IDA Pro](https://img.shields.io/badge/IDA_Pro-0073A7?style=for-the-badge&logo=hexo&logoColor=white)](https://hex-rays.com/ida-pro/)
 [![x64dbg](https://img.shields.io/badge/x64dbg-black?style=for-the-badge&logo=linux&logoColor=lime)](https://x64dbg.com)
 [![Sysinternals](https://img.shields.io/badge/Sysinternals-black?style=for-the-badge&logo=linux&logoColor=lime)](https://learn.microsoft.com/en-us/sysinternals/)
 
