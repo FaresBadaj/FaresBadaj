@@ -112,20 +112,19 @@
 
 ### ✅ Certified
 
-[<img alt="Extreme Red Team LABS - SUMMUS" src="https://cdn.certifier.io/742fca3b-76a2-483a-9ce8-70ff3cdf883f/credentials/01kvcwdw95sd8r4zw5g15n1eht/designs/01jxfm0hjq26rnwgmgd80ktjve/VqTO9fChON.png" width="120" />](https://credsverse.com/credentials/3d30bda4-5f6a-4149-bf0e-28e7264e9be2?preview=1)
-[<img src="https://images.credly.com/images/ccfd87c6-edad-4138-80cb-d49d1453d6e5/blob" width="90">](https://www.credly.com/badges/b109937d-68aa-4f1f-9d4a-286425e8d3b1)
-[<img src="https://images.credly.com/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" width="90">](https://www.credly.com/badges/b3f1d919-5ec7-438a-82ca-7e2571b16e02)
-[<img src="https://images.credly.com/images/2f194645-bbf5-4f75-a48c-aba81d29e592/Coursera_20IBM_20Cybersecurity_20Analyst_20Professional_20Certificate_20V2.png" width="90">](https://www.credly.com/badges/80568e6c-32d5-4876-8648-d16ff843d2cb)
-[<img src="https://images.credly.com/images/c871be1f-a352-4eab-a1b0-95c3b7a87a50/image.png" width="90">](https://www.credly.com/badges/06aa3786-dbbd-4bf7-aeda-548c2336793a)
-[<img src="https://images.credly.com/images/e13df08f-db7d-4aa6-8fcc-c95297ba929b/Ethical_20Hacking_20Capstone_20Project.png" width="90">](https://www.credly.com/badges/ff7ba4e0-1460-4592-8c8f-6593f0cec618)
-[<img src="https://images.credly.com/images/e3c001fd-161d-433a-a7a4-049556d6112d/blob" width="90">](https://www.credly.com/badges/1e3cf2ae-0030-4191-8a0c-c1a54d2be4e0)
-[<img src="https://images.credly.com/images/3f802526-7274-4230-91ab-f6d1a35340e6/image.png" width="90">](https://www.credly.com/badges/fb0798e6-f26b-4b28-8f50-85b19149e185)
-[<img src="https://images.credly.com/images/f4ccdba9-dd65-4349-baad-8f05df116443/CCNASRWE__1_.png" width="90">](https://www.credly.com/badges/84170157-6940-40c7-a50e-7308841c1f77)
-[<img src="https://images.credly.com/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" width="90">](https://www.credly.com/badges/8f035133-5e4a-4bfe-9387-f7d0a6437c42)
-[<img src="https://images.credly.com/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png" width="90">](https://www.credly.com/badges/aacdb6ba-7335-4860-910c-6fbca6a64998)
-[<img src="https://images.credly.com/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="90">](https://www.credly.com/badges/022b4792-868b-4c7c-a8e0-c45404977be6)
-
-[![IBM Ethical Hacking with Open-Source Tools](https://img.shields.io/badge/IBM_Ethical_Hacking-Open_Source_Tools-801138?style=for-the-badge&labelColor=0d1117&logo=ibm&logoColor=white)](https://coursera.org/share/c3f271d87004b719075c98ab8f601294)
+[![SUMMUS](https://img.shields.io/badge/SUMMUS-Extreme_Red_Team-red?style=for-the-badge&logo=target&logoColor=white)](https://credsverse.com/credentials/3d30bda4-5f6a-4149-bf0e-28e7264e9be2?preview=1)
+[![IBM CyberSec Analyst](https://img.shields.io/badge/IBM_Cybersecurity_Analyst-Professional-0062CC?style=for-the-badge&logo=ibm&logoColor=white)](https://www.credly.com/badges/80568e6c-32d5-4876-8648-d16ff843d2cb)
+[![IBM Threat Mgmt](https://img.shields.io/badge/IBM-Threat_Management-0062CC?style=for-the-badge&logo=ibm&logoColor=white)](https://www.credly.com/badges/06aa3786-dbbd-4bf7-aeda-548c2336793a)
+[![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacking-Capstone-0062CC?style=for-the-badge&logo=ibm&logoColor=white)](https://www.credly.com/badges/ff7ba4e0-1460-4592-8c8f-6593f0cec618)
+[![IBM Assessment](https://img.shields.io/badge/IBM-Assessment_%26_Testing-0062CC?style=for-the-badge&logo=ibm&logoColor=white)](https://www.credly.com/badges/1e3cf2ae-0030-4191-8a0c-c1a54d2be4e0)
+[![IBM SOC/SIEM](https://img.shields.io/badge/IBM-SOC_SIEM_HIDS-0062CC?style=for-the-badge&logo=ibm&logoColor=white)](https://www.credly.com/badges/fb0798e6-f26b-4b28-8f50-85b19149e185)
+[![IBM NetSec](https://img.shields.io/badge/IBM-Network_Security-0062CC?style=for-the-badge&logo=ibm&logoColor=white)](https://www.credly.com/badges/aacdb6ba-7335-4860-910c-6fbca6a64998)
+[![IBM Intrusion](https://img.shields.io/badge/IBM-Intrusion_Detection-0062CC?style=for-the-badge&logo=ibm&logoColor=white)](https://www.credly.com/badges/022b4792-868b-4c7c-a8e0-c45404977be6)
+[![IBM Ethical Hacking](https://img.shields.io/badge/IBM-Ethical_Hacking_Open_Source-801138?style=for-the-badge&logo=ibm&logoColor=white)](https://coursera.org/share/c3f271d87004b719075c98ab8f601294)
+[![CCNA](https://img.shields.io/badge/CCNA-Routing_%26_Switching-c51200?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/badges/84170157-6940-40c7-a50e-7308841c1f77)
+[![CCNA ITN](https://img.shields.io/badge/CCNA-Introduction_to_Networks-c51200?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/badges/8f035133-5e4a-4bfe-9387-f7d0a6437c42)
+[![IBM CyberSec](https://img.shields.io/badge/IBM-Cybersecurity_Analyst-0062CC?style=for-the-badge&logo=ibm&logoColor=white)](https://www.credly.com/badges/b109937d-68aa-4f1f-9d4a-286425e8d3b1)
+[![IBM CyberSec V2](https://img.shields.io/badge/IBM-Cybersecurity_Analyst_V2-0062CC?style=for-the-badge&logo=ibm&logoColor=white)](https://www.credly.com/badges/b3f1d919-5ec7-438a-82ca-7e2571b16e02)
 
 ### ⏳ In Progress
 [![OSCP](https://img.shields.io/badge/OSCP-In_Progress-ff3333?style=for-the-badge&labelColor=0d1117)](https://www.offsec.com)
@@ -140,6 +139,18 @@
 
 ## <img src="https://i.postimg.cc/ZKWgR2M9/Software-Tools.gif" width="45" /> Tools & Arsenal
 
+### 🔴 Offensive & Pentesting Tools
+[![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white)](https://portswigger.net)
+[![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)](https://www.metasploit.com)
+[![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)](https://nmap.org)
+[![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)](https://www.wireshark.org)
+
+### 🎭 C2, Phishing & Pivoting
+[![Ligolo-ng](https://img.shields.io/badge/Ligolo_ng-black?style=for-the-badge&color=121014)](https://github.com/nicocha30/ligolo-ng)
+[![Adaptix C2](https://img.shields.io/badge/Adaptix_C2-black?style=for-the-badge&color=121014)](https://github.com/Adaptix-Framework/Adaptix)
+[![Beacons & Implants](https://img.shields.io/badge/Beacons__Implants-black?style=for-the-badge&color=121014)](https://github.com/topics/command-control)
+[![SSH Multi-Hop](https://img.shields.io/badge/SSH_Multi_Hop-black?style=for-the-badge&color=121014)](https://www.ssh.com/academy/ssh/tunneling)
+
 ### 🏰 Active Directory & Credential Attacks
 [![BloodHound](https://img.shields.io/badge/BloodHound-black?style=for-the-badge&color=121014)](https://github.com/SpecterOps/BloodHound)
 [![SharpHound](https://img.shields.io/badge/SharpHound-black?style=for-the-badge&color=121014)](https://github.com/SpecterOps/BloodHound)
@@ -152,17 +163,10 @@
 [![Evil-WinRM](https://img.shields.io/badge/Evil_WinRM-black?style=for-the-badge&color=121014)](https://github.com/Hackplayers/evil-winrm)
 [![Adidnsdump](https://img.shields.io/badge/Adidnsdump-black?style=for-the-badge&color=121014)](https://github.com/dirkjanm/adidnsdump)
 
-### 🎭 C2, Phishing & Pivoting
-[![Ligolo-ng](https://img.shields.io/badge/Ligolo_ng-black?style=for-the-badge&color=121014)](https://github.com/nicocha30/ligolo-ng)
-[![Adaptix C2](https://img.shields.io/badge/Adaptix_C2-black?style=for-the-badge&color=121014)](https://github.com/Adaptix-Framework/Adaptix)
-[![Beacons & Implants](https://img.shields.io/badge/Beacons__Implants-black?style=for-the-badge&color=121014)](https://github.com/topics/command-control)
-[![SSH Multi-Hop Tunneling](https://img.shields.io/badge/SSH_Multi_Hop_Tunneling-black?style=for-the-badge&color=121014)](https://www.ssh.com/academy/ssh/tunneling)
-
-### 🔴 Offensive & Pentesting
-[![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white)](https://portswigger.net)
-[![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)](https://www.metasploit.com)
-[![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)](https://nmap.org)
-[![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)](https://www.wireshark.org)
+### 🌐 Network & Vulnerability Scanning
+[![Nessus](https://img.shields.io/badge/Nessus-00C176?style=for-the-badge&logo=tenable&logoColor=white)](https://www.tenable.com/products/nessus)
+[![OpenVAS](https://img.shields.io/badge/OpenVAS-4CAF50?style=for-the-badge&logo=openvas&logoColor=white)](https://www.openvas.org)
+[![Masscan](https://img.shields.io/badge/Masscan-FF4500?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/robertdavidgraham/masscan)
 
 ### 🔬 Forensics & Reverse Engineering
 [![Ghidra](https://img.shields.io/badge/Ghidra-FF0000?style=for-the-badge&logo=nsa&logoColor=white)](https://ghidra-sre.org)
