@@ -91,6 +91,7 @@
 
 <div align="center">
 
+[<img alt="Extreme Red Team LABS - SUMMUS" src="https://cdn.certifier.io/742fca3b-76a2-483a-9ce8-70ff3cdf883f/credentials/01kvcwdw95sd8r4zw5g15n1eht/designs/01jxfm0hjq26rnwgmgd80ktjve/VqTO9fChON.png" width="120" />](https://credsverse.com/credentials/3d30bda4-5f6a-4149-bf0e-28e7264e9be2?preview=1)
 [<img src="https://images.credly.com/images/ccfd87c6-edad-4138-80cb-d49d1453d6e5/blob" width="90">](https://www.credly.com/badges/b109937d-68aa-4f1f-9d4a-286425e8d3b1)
 [<img src="https://images.credly.com/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" width="90">](https://www.credly.com/badges/b3f1d919-5ec7-438a-82ca-7e2571b16e02)
 [<img src="https://images.credly.com/images/2f194645-bbf5-4f75-a48c-aba81d29e592/Coursera_20IBM_20Cybersecurity_20Analyst_20Professional_20Certificate_20V2.png" width="90">](https://www.credly.com/badges/80568e6c-32d5-4876-8648-d16ff843d2cb)
