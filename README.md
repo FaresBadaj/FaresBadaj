@@ -15,6 +15,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ptok3)
 [![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/faresbadaj)
 [![Email](https://img.shields.io/badge/Email-faresbadaj%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faresbadaj@gmail.com)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@faresbadaj)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=FaresBadaj&label=Profile%20Views&color=00ff41&style=flat-square)
 
