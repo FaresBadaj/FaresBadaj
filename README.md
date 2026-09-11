@@ -1,10 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=200&section=header&text=Fares%20Badaj&fontSize=50&fontColor=00ff41&animation=fadeIn&fontAlignY=38&desc=Red%20Team%20Operator%20%7C%20Penetration%20Tester%20Specialist&descAlignY=58&descColor=ffffff" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=220&section=header&text=Fares%20Badaj&fontSize=50&fontColor=00ff41&animation=fadeIn&fontAlignY=38&desc=Red%20Team%20Operator%20%7C%20Penetration%20Tester%20Specialist&descAlignY=58&descColor=ffffff" alt="Header" />
   <br>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Red+Team+Operator;Active+Directory+%26+Multi-Cloud+Security;Penetration+Tester+Specialist;CTF+Player+%40+FlagYard;Offensive+Security+Researcher" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Red+Team+Operator;Active+Directory+%26+Multi-Cloud+Security;Penetration+Tester+Specialist;CTF+Player+%40+FlagYard;EDR%2FAV+Evasion+%26+Kernel+Research" alt="Typing SVG" />
   </a>
 </div>
+
+<br>
 
 <div align="center">
 
@@ -13,10 +15,6 @@
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ptok3)
 [![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/faresbadaj)
 [![Email](https://img.shields.io/badge/Email-faresbadaj%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faresbadaj@gmail.com)
-
-</div>
-
-<div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=FaresBadaj&label=Profile%20Views&color=00ff41&style=flat-square)
 
@@ -83,6 +81,29 @@
 
 ---
 
+## <img src="https://i.postimg.cc/QxCVDks7/projects.gif" width="45" /> Projects
+
+<table align="center">
+  <tr>
+    <th>Project</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><b>🧠 AI-Based DDoS Detection System</b></td>
+    <td>Transformer-based ML model analyzing network traffic sequences to detect & filter sophisticated DDoS attacks in real-time with superior accuracy.</td>
+  </tr>
+  <tr>
+    <td><b>🚢 Extreme Red Team SUMMUS</b></td>
+    <td>Multi-stage attack chain bridging on-prem AD + multi-cloud (AWS·Azure·GCP): cross-domain enumeration, credential harvesting, privilege escalation & lateral movement.</td>
+  </tr>
+  <tr>
+    <td><b>⚙️ Kernel Rootkit Development (PoC)</b></td>
+    <td>Proof-of-concept loader in a controlled lab to study process execution behavior and endpoint security (EDR) detection mechanisms.</td>
+  </tr>
+</table>
+
+---
+
 ## 🎖️ Certifications
 
 <div align="center">
@@ -112,6 +133,8 @@
 [![CRTO](https://img.shields.io/badge/CRTO-In_Progress-ff3333?style=for-the-badge&labelColor=0d1117)](https://training.zeropointsecurity.co.uk)
 
 </div>
+
+---
 
 ## <img src="https://i.postimg.cc/ZKWgR2M9/Software-Tools.gif" width="45" /> Tools & Arsenal
 
@@ -181,14 +204,22 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FaresBadaj&show_icons=true&theme=radical&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&bg_color=0d1117&border_color=00ff41" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FaresBadaj&show_icons=true&theme=radical&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&bg_color=0d1117&border_color=00ff41&hide_border=false" alt="GitHub Stats" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaresBadaj&layout=compact&theme=radical&title_color=00ff41&text_color=c9d1d9&bg_color=0d1117&border_color=00ff41" alt="Top Languages" height="180" />
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=FaresBadaj&theme=dark&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" alt="GitHub Streak" />
 </div>
 
-<!-- لإضافة ثعبان الـ commits المتحرك: أضف Workflow باسم snake.yml من https://github.com/Platane/snk ثم الصق السطر الأسفل
-![Snake animation](https://raw.githubusercontent.com/FaresBadaj/FaresBadaj/output/github-contribution-grid-snake-dark.svg)
--->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=FaresBadaj&theme=radical&row=2&column=4&margin-w=10&margin-h=10&no-bg=true&no-frame=true&title_color=00ff41" alt="GitHub Trophies" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FaresBadaj&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true&hide_title=false&title=Contribution%20Graph" alt="Contribution Graph" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/FaresBadaj/FaresBadaj/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=120&section=footer" alt="Footer" />
