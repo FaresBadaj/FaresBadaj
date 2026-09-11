@@ -87,20 +87,25 @@
 
 <div align="center">
 
-### ✅ Certified
+### ✅ Certified (Credly Verified)
 [![Extreme Red Team SUMMUS](https://img.shields.io/badge/Extreme_Red_Team_SUMMUS-Certified-00ff41?style=for-the-badge&labelColor=0d1117)](https://www.credly.com/users/faresbadaj)
 [![CISSP](https://img.shields.io/badge/CISSP-Certified-00ff41?style=for-the-badge&labelColor=0d1117)](https://www.credly.com/users/faresbadaj)
 [![CLLMSE - LLM Security Expert](https://img.shields.io/badge/LLM_Security_Expert-Certified-00ff41?style=for-the-badge&labelColor=0d1117)](https://www.credly.com/users/faresbadaj)
-[![IBM GenAI for Cybersecurity](https://img.shields.io/badge/IBM_GenAI_Cybersecurity-Certified-00ff41?style=for-the-badge&labelColor=0d1117)](https://www.credly.com/users/faresbadaj)
-[![IBM Cybersecurity Analyst](https://img.shields.io/badge/IBM_Cybersecurity_Analyst-Certified-00ff41?style=for-the-badge&labelColor=0d1117)](https://www.credly.com/users/faresbadaj)
-[![IBM Ethical Hacking](https://img.shields.io/badge/IBM_Ethical_Hacking-Certified-00ff41?style=for-the-badge&labelColor=0d1117)](https://www.credly.com/users/faresbadaj)
-[![Cisco Ethical Hacking](https://img.shields.io/badge/Cisco_Ethical_Hacking-Certified-00ff41?style=for-the-badge&labelColor=0d1117)](https://www.credly.com/users/faresbadaj)
-[![Cisco Python](https://img.shields.io/badge/Cisco_Python-Certified-00ff41?style=for-the-badge&labelColor=0d1117)](https://www.credly.com/users/faresbadaj)
-[![CCNA 1 · 2 · 3](https://img.shields.io/badge/CCNA_1_2_3-Certified-00ff41?style=for-the-badge&labelColor=0d1117)](https://www.credly.com/users/faresbadaj)
-[![Aviatrix Multi-Cloud Networking](https://img.shields.io/badge/Aviatrix_Multi_Cloud-Certified-00ff41?style=for-the-badge&labelColor=0d1117)](https://www.credly.com/users/faresbadaj)
-[![Google Cybersecurity V2](https://img.shields.io/badge/Google_Cybersecurity-Certified-00ff41?style=for-the-badge&labelColor=0d1117)](https://www.credly.com/users/faresbadaj)
-[![Google IT Support V3](https://img.shields.io/badge/Google_IT_Support-Certified-00ff41?style=for-the-badge&labelColor=0d1117)](https://www.credly.com/users/faresbadaj)
 [![Microsoft Python Dev](https://img.shields.io/badge/Microsoft_Python_Dev-Certified-00ff41?style=for-the-badge&labelColor=0d1117)](https://www.credly.com/users/faresbadaj)
+[![IBM Ethical Hacking](https://img.shields.io/badge/IBM_Ethical_Hacking-Certified-00ff41?style=for-the-badge&labelColor=0d1117)](https://www.credly.com/users/faresbadaj)
+[![Google IT Support (v3)](https://img.shields.io/badge/Google_IT_Support-Certified-00ff41?style=for-the-badge&labelColor=0d1117)](https://www.credly.com/badges/b109937d-68aa-4f1f-9d4a-286425e8d3b1)
+[![Google Cybersecurity (V2)](https://img.shields.io/badge/Google_Cybersecurity-Certified-00ff41?style=for-the-badge&labelColor=0d1117)](https://www.credly.com/badges/b3f1d919-5ec7-438a-82ca-7e2571b16e02)
+[![IBM Cybersecurity Analyst (V2)](https://img.shields.io/badge/IBM_Cybersecurity_Analyst-Certified-00ff41?style=for-the-badge&labelColor=0d1117)](https://www.credly.com/badges/80568e6c-32d5-4876-8648-d16ff843d2cb)
+[![Generative AI for Cybersecurity](https://img.shields.io/badge/GenAI_for_Cybersecurity-Certified-00ff41?style=for-the-badge&labelColor=0d1117)](https://www.credly.com/badges/06aa3786-dbbd-4bf7-aeda-548c2336793a)
+[![Ethical Hacking Capstone](https://img.shields.io/badge/Ethical_Hacking_Capstone-Certified-00ff41?style=for-the-badge&labelColor=0d1117)](https://www.credly.com/badges/ff7ba4e0-1460-4592-8c8f-6593f0cec618)
+[![Multicloud Network Associate](https://img.shields.io/badge/Aviatrix-Multicloud_Networking-00ff41?style=for-the-badge&labelColor=0d1117)](https://www.credly.com/badges/1e3cf2ae-0030-4191-8a0c-c1a54d2be4e0)
+[![Python Essentials 2](https://img.shields.io/badge/Cisco-Python_Essentials_2-00ff41?style=for-the-badge&labelColor=0d1117)](https://www.credly.com/badges/fb0798e6-f26b-4b28-8f50-85b19149e185)
+[![CCNA: Switching, Routing & Wireless](https://img.shields.io/badge/CCNA-Switching_Routing_Wireless-00ff41?style=for-the-badge&labelColor=0d1117)](https://www.credly.com/badges/84170157-6940-40c7-a50e-7308841c1f77)
+[![CCNA: Introduction to Networks](https://img.shields.io/badge/CCNA-Introduction_to_Networks-00ff41?style=for-the-badge&labelColor=0d1117)](https://www.credly.com/badges/8f035133-5e4a-4bfe-9387-f7d0a6437c42)
+[![Ethical Hacker](https://img.shields.io/badge/Cisco-Ethical_Hacker-00ff41?style=for-the-badge&labelColor=0d1117)](https://www.credly.com/badges/aacdb6ba-7335-4860-910c-6fbca6a64998)
+[![Introduction to Cybersecurity](https://img.shields.io/badge/Cisco-Intro_to_Cybersecurity-00ff41?style=for-the-badge&labelColor=0d1117)](https://www.credly.com/badges/022b4792-868b-4c7c-a8e0-c45404977be6)
+
+> ⚠️ الشارات فوق بدون رابط ليست على Credly — أضف رابط ورقة الشهادة الخاصة بها إن وجدت، أو احذفها من الـ README.
 
 ### ⏳ In Progress
 [![OSCP](https://img.shields.io/badge/OSCP-In_Progress-ff3333?style=for-the-badge&labelColor=0d1117)](https://www.offsec.com)
@@ -109,7 +114,6 @@
 [![CRTE](https://img.shields.io/badge/CRTE-In_Progress-ff3333?style=for-the-badge&labelColor=0d1117)](https://www.alteredsecurity.com)
 [![CRTO](https://img.shields.io/badge/CRTO-In_Progress-ff3333?style=for-the-badge&labelColor=0d1117)](https://training.zeropointsecurity.co.uk)
 
-<!-- بدّل روابط الشهادات فوق بروابط شاراتك الفردية من credly.com/badges/... كل واحدة فيها رابطها الخاص -->
 </div>
 
 ## <img src="https://i.postimg.cc/ZKWgR2M9/Software-Tools.gif" width="45" /> Tools & Arsenal
