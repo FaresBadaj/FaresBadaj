@@ -219,8 +219,8 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=FaresBadaj&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true&hide_title=false&title=Contribution%20Graph" alt="Contribution Graph" />
 </div>
 
-<!-- 🐍 لإضافة ثعبان الـ commits المتحرك: أضف ملف `.github/workflows/snake.yml` (النسخة جاهزة محلياً) من موقع GitHub → Add file، ثم يفعل ❤ خريطة الـ commits.
-![Snake animation](https://raw.githubusercontent.com/FaresBadaj/FaresBadaj/output/github-contribution-grid-snake-dark.svg)
--->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/FaresBadaj/FaresBadaj/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=120&section=footer" alt="Footer" />
