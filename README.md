@@ -87,9 +87,7 @@
 
 <div align="center">
 
-### ✅ Certified (Credly Verified)
-
-<div align="center">
+### ✅ Certified
 
 [<img alt="Extreme Red Team LABS - SUMMUS" src="https://cdn.certifier.io/742fca3b-76a2-483a-9ce8-70ff3cdf883f/credentials/01kvcwdw95sd8r4zw5g15n1eht/designs/01jxfm0hjq26rnwgmgd80ktjve/VqTO9fChON.png" width="120" />](https://credsverse.com/credentials/3d30bda4-5f6a-4149-bf0e-28e7264e9be2?preview=1)
 [<img src="https://images.credly.com/images/ccfd87c6-edad-4138-80cb-d49d1453d6e5/blob" width="90">](https://www.credly.com/badges/b109937d-68aa-4f1f-9d4a-286425e8d3b1)
@@ -103,8 +101,6 @@
 [<img src="https://images.credly.com/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" width="90">](https://www.credly.com/badges/8f035133-5e4a-4bfe-9387-f7d0a6437c42)
 [<img src="https://images.credly.com/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png" width="90">](https://www.credly.com/badges/aacdb6ba-7335-4860-910c-6fbca6a64998)
 [<img src="https://images.credly.com/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="90">](https://www.credly.com/badges/022b4792-868b-4c7c-a8e0-c45404977be6)
-
-</div>
 
 ### ⏳ In Progress
 [![OSCP](https://img.shields.io/badge/OSCP-In_Progress-ff3333?style=for-the-badge&labelColor=0d1117)](https://www.offsec.com)
