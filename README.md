@@ -102,6 +102,8 @@
 [<img src="https://images.credly.com/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png" width="90">](https://www.credly.com/badges/aacdb6ba-7335-4860-910c-6fbca6a64998)
 [<img src="https://images.credly.com/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="90">](https://www.credly.com/badges/022b4792-868b-4c7c-a8e0-c45404977be6)
 
+[![IBM Ethical Hacking with Open-Source Tools](https://img.shields.io/badge/IBM_Ethical_Hacking-Open_Source_Tools-801138?style=for-the-badge&labelColor=0d1117&logo=ibm&logoColor=white)](https://coursera.org/share/c3f271d87004b719075c98ab8f601294)
+
 ### ⏳ In Progress
 [![OSCP](https://img.shields.io/badge/OSCP-In_Progress-ff3333?style=for-the-badge&labelColor=0d1117)](https://www.offsec.com)
 [![OSEP](https://img.shields.io/badge/OSEP-In_Progress-ff3333?style=for-the-badge&labelColor=0d1117)](https://www.offsec.com)
