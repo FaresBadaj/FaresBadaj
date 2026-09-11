@@ -16,6 +16,7 @@
 [![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/faresbadaj)
 [![Email](https://img.shields.io/badge/Email-faresbadaj%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faresbadaj@gmail.com)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@faresbadaj)
+[![FlagYard](https://img.shields.io/badge/FlagYard-General-00ff41?style=for-the-badge&labelColor=0e151c)](https://flagyard.com/profile/0d98516b-b90b-4841-b4a5-c5170f1741c3)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=FaresBadaj&label=Profile%20Views&color=00ff41&style=flat-square)
 
@@ -109,7 +110,7 @@
 
 <div align="center">
 
-### 
+### ✅ Certified
 
 [<img alt="Extreme Red Team LABS - SUMMUS" src="https://cdn.certifier.io/742fca3b-76a2-483a-9ce8-70ff3cdf883f/credentials/01kvcwdw95sd8r4zw5g15n1eht/designs/01jxfm0hjq26rnwgmgd80ktjve/VqTO9fChON.png" width="120" />](https://credsverse.com/credentials/3d30bda4-5f6a-4149-bf0e-28e7264e9be2?preview=1)
 [<img src="https://images.credly.com/images/ccfd87c6-edad-4138-80cb-d49d1453d6e5/blob" width="90">](https://www.credly.com/badges/b109937d-68aa-4f1f-9d4a-286425e8d3b1)
