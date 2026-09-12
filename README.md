@@ -190,7 +190,6 @@
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
-[![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)](https://learn.microsoft.com/en-us/powershell/)
 [![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
@@ -211,6 +210,25 @@
 
 ---
 
+## 🏆 Achievements & CTF Hall of Fame
+
+<div align="center">
+  <table>
+    <tr>
+      <th>Event</th>
+      <th>Achievement</th>
+      <th>Challenge Breakdown</th>
+    </tr>
+    <tr>
+      <td><b>Black Hat 2026</b></td>
+      <td>Completed all selected challenges at <b>Insane</b> difficulty</td>
+      <td>3 Reverse Engineering · 2 Forensics · 1 Cryptography</td>
+    </tr>
+  </table>
+</div>
+
+---
+
 ## 🧩 CTF & Cyber Profiles
 
 <div align="center">
@@ -221,53 +239,38 @@
 
 ---
 
-## 🟩 TryHackMe Badges
+## 🏅 Black Hat 2026 Challenge Highlights
 
 <div align="center">
-  <!-- Replace YOUR_TRYHACKME_USERNAME with your TryHackMe username to show your badge card. -->
-  <a href="https://tryhackme.com/"><img src="https://img.shields.io/badge/TryHackMe-Add_Your_Badges-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe badges" /></a>
+  <a href="#-achievements--ctf-hall-of-fame"><img src="https://img.shields.io/badge/Black_Hat_2026-Completed-00ff41?style=for-the-badge&labelColor=0d1117" alt="Black Hat 2026 completed" /></a>
+  <a href="#-achievements--ctf-hall-of-fame"><img src="https://img.shields.io/badge/Reverse_Engineering-3_Challenges-8A2BE2?style=for-the-badge" alt="Three Reverse Engineering challenges" /></a>
+  <a href="#-achievements--ctf-hall-of-fame"><img src="https://img.shields.io/badge/Forensics-2_Challenges-1679A7?style=for-the-badge" alt="Two Forensics challenges" /></a>
+  <a href="#-achievements--ctf-hall-of-fame"><img src="https://img.shields.io/badge/Cryptography-1_Challenge-FF8C00?style=for-the-badge" alt="One Cryptography challenge" /></a>
+  <br>
+  <img src="https://img.shields.io/badge/Difficulty-INSANE-ff3333?style=for-the-badge&labelColor=0d1117" alt="Insane difficulty" />
 </div>
-
-<!--
-After you have your TryHackMe badge image URLs, add them here:
-
-<div align="center">
-  <a href="https://tryhackme.com/p/YOUR_TRYHACKME_USERNAME">
-    <img src="YOUR_TRYHACKME_BADGE_URL" alt="TryHackMe badge" height="90" />
-  </a>
-</div>
--->
 
 ---
 
-## ✍️ Community & Content
+## <img src="https://i.postimg.cc/cLDn0tX8/contact-with-me.gif" width="45" alt="" /> Community & Content
 
-- 🔐 **Cybersecurity Writer** — [Medium](https://medium.com/@faresbadaj) | Writeups, research, and security insights
+- ✍️ **Cybersecurity Writer** — [Medium](https://medium.com/@faresbadaj) | Writing walkthroughs, research, and security insights
 - 🏁 **CTF Player** — [FlagYard](https://flagyard.com/profile/0d98516b-b90b-4841-b4a5-c5170f1741c3) | Challenges, writeups, and solver scripts
 - 💻 **Open-Source Security Projects** — [GitHub](https://github.com/FaresBadaj) | Security tooling, automation, and research
 - 🔗 **Links** — [LinkedIn](https://www.linkedin.com/in/FaresBadaj) · [Telegram](https://t.me/ptok3) · [Credly](https://www.credly.com/users/faresbadaj)
 
 ---
 
-## 💬 Ask Me About
+## <img src="https://i.postimg.cc/fWXrF0nj/devops.gif" width="45" alt="" /> Ask Me About
 
 <div align="center">
-  <code>Web App Pentesting</code> ·
-  <code>Mobile Security</code> ·
-  <code>OWASP Top 10</code> ·
-  <code>CTF Challenges</code> ·
-  <code>Bug Bounty</code> ·
-  <code>Red Teaming</code> ·
-  <code>Python Scripting for Security</code> ·
-  <code>Active Directory</code> ·
-  <code>Digital Forensics</code>
+  <code>Web App Pentesting</code> · <code>Mobile Security</code> · <code>OWASP Top 10</code> · <code>CTF Challenges</code> · <code>Bug Bounty</code> · <code>Red Teaming</code> · <code>Python Scripting for Security</code> · <code>Active Directory</code> · <code>Digital Forensics</code>
 </div>
 
 ---
 
-## 🤝 Connect With Me
-
 <div align="center">
+  <h2><img src="https://i.postimg.cc/cLDn0tX8/contact-with-me.gif" width="45" alt="" /> Connect With Me</h2>
   <a href="https://www.linkedin.com/in/FaresBadaj"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:faresbadaj@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
   <a href="https://t.me/ptok3"><img src="https://img.shields.io/badge/TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
@@ -298,8 +301,10 @@ After you have your TryHackMe badge image URLs, add them here:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=FaresBadaj&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true&hide_title=false&title=Contribution%20Graph" alt="Contribution Graph" />
 </div>
 
+> **Note:** Top languages reflects public repository content, not overall skill level.
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/FaresBadaj/FaresBadaj/output/github-contribution-grid-snake-dark.svg" alt="Contribution graph snake animation" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=120&section=footer" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=120&section=footer&text=HackTheHellUp!&fontSize=30&fontColor=00ff41&animation=fadeIn" alt="HackTheHellUp footer" />
