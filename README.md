@@ -1,30 +1,28 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=220&section=header&text=Fares%20Badaj&fontSize=50&fontColor=00ff41&animation=fadeIn&fontAlignY=38&desc=Red%20Team%20Operator%20%7C%20Penetration%20Tester%20Specialist&descAlignY=58&descColor=ffffff" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=220&section=header&text=Fares%20Badaj&fontSize=50&fontColor=00ff41&animation=fadeIn&fontAlignY=38&desc=Red%20Team%20Operator%20%7C%20Penetration%20Tester%20Specialist&descAlignY=58&descColor=ffffff" alt="Fares Badaj — Red Team Operator" />
   <br>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Red+Team+Operator;Active+Directory+%26+Multi-Cloud+Security;Penetration+Tester+Specialist;CTF+Player+%40+FlagYard;EDR%2FAV+Evasion+%26+Kernel+Research" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Red+Team+Operator;Active+Directory+%26+Multi-Cloud+Security;Penetration+Tester+Specialist;CTF+Player+%40+FlagYard;EDR%2FAV+Evasion+%26+Kernel+Research" alt="Red Team Operator | Active Directory and Multi-Cloud Security | Penetration Tester Specialist | CTF Player at FlagYard | EDR/AV Evasion and Kernel Research" />
   </a>
 </div>
 
 <br>
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/FaresBadaj)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FaresBadaj)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ptok3)
-[![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/faresbadaj)
-[![Email](https://img.shields.io/badge/Email-faresbadaj%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faresbadaj@gmail.com)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@faresbadaj)
-[![FlagYard](https://img.shields.io/badge/FlagYard-General-00ff41?style=for-the-badge&labelColor=0e151c)](https://flagyard.com/profile/0d98516b-b90b-4841-b4a5-c5170f1741c3)
-
-![Profile Views](https://komarev.com/ghpvc/?username=FaresBadaj&label=Profile%20Views&color=00ff41&style=flat-square)
-
+  <a href="https://www.linkedin.com/in/FaresBadaj"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/FaresBadaj"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://t.me/ptok3"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://www.credly.com/users/faresbadaj"><img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly" /></a>
+  <a href="mailto:faresbadaj@gmail.com"><img src="https://img.shields.io/badge/Email-faresbadaj%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://medium.com/@faresbadaj"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+  <a href="https://flagyard.com/profile/0d98516b-b90b-4841-b4a5-c5170f1741c3"><img src="https://img.shields.io/badge/FlagYard-General-00ff41?style=for-the-badge&labelColor=0e151c" alt="FlagYard" /></a>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=FaresBadaj&label=Profile%20Views&color=00ff41&style=flat-square" alt="Profile views" />
 </div>
 
 ---
 
-## <img src="https://i.postimg.cc/fk42RgCk/about-me.gif" width="45" /> About Me
+## <img src="https://i.postimg.cc/fk42RgCk/about-me.gif" width="45" alt="" /> About Me
 
 ```text
 ┌──(fares㉿kali)-[~]
@@ -41,7 +39,7 @@
 
 ---
 
-## <img src="https://media2.giphy.com/media/QssGEmkyEOhBCb7e1/giphy.gif" width="45" /> Core Expertise
+## <img src="https://media2.giphy.com/media/QssGEmkyEOhBCb7e1/giphy.gif" width="45" alt="" /> Core Expertise
 
 <table align="center">
   <tr>
@@ -83,7 +81,7 @@
 
 ---
 
-## <img src="https://i.postimg.cc/QxCVDks7/projects.gif" width="45" /> Projects
+## <img src="https://i.postimg.cc/QxCVDks7/projects.gif" width="45" alt="" /> Projects
 
 <table align="center">
   <tr>
@@ -92,11 +90,11 @@
   </tr>
   <tr>
     <td><b>🧠 AI-Based DDoS Detection System</b></td>
-    <td>Transformer-based ML model analyzing network traffic sequences to detect & filter sophisticated DDoS attacks in real-time with superior accuracy.</td>
+    <td>Transformer-based ML model analyzing network traffic sequences to detect and filter sophisticated DDoS attacks in real time with superior accuracy.</td>
   </tr>
   <tr>
     <td><b>🚢 Extreme Red Team SUMMUS</b></td>
-    <td>Multi-stage attack chain bridging on-prem AD + multi-cloud (AWS·Azure·GCP): cross-domain enumeration, credential harvesting, privilege escalation & lateral movement.</td>
+    <td>Multi-stage attack chain bridging on-premises AD and multi-cloud (AWS · Azure · GCP): cross-domain enumeration, credential harvesting, privilege escalation, and lateral movement.</td>
   </tr>
   <tr>
     <td><b>⚙️ Kernel Rootkit Development (PoC)</b></td>
@@ -109,49 +107,51 @@
 ## 🎖️ Certifications
 
 <div align="center">
+  <h3>✅ Certified</h3>
 
-### ✅ Certified
+  <a href="https://credsverse.com/credentials/3d30bda4-5f6a-4149-bf0e-28e7264e9be2?preview=1"><img src="https://img.shields.io/badge/SUMMUS-Extreme_Red_Team-red?style=for-the-badge&logo=target&logoColor=white" alt="SUMMUS Extreme Red Team" /></a>
+  <a href="https://www.credly.com/badges/80568e6c-32d5-4876-8648-d16ff843d2cb"><img src="https://img.shields.io/badge/IBM_Cybersecurity_Analyst-Professional-0062CC?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Cybersecurity Analyst Professional" /></a>
+  <a href="https://www.credly.com/badges/06aa3786-dbbd-4bf7-aeda-548c2336793a"><img src="https://img.shields.io/badge/IBM-Threat_Management-0062CC?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Threat Management" /></a>
+  <a href="https://www.credly.com/badges/ff7ba4e0-1460-4592-8c8f-6593f0cec618"><img src="https://img.shields.io/badge/Ethical_Hacking-Capstone-0062CC?style=for-the-badge&logo=ibm&logoColor=white" alt="Ethical Hacking Capstone" /></a>
+  <a href="https://www.credly.com/badges/1e3cf2ae-0030-4191-8a0c-c1a54d2be4e0"><img src="https://img.shields.io/badge/IBM-Assessment_%26_Testing-0062CC?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Assessment and Testing" /></a>
+  <a href="https://www.credly.com/badges/fb0798e6-f26b-4b28-8f50-85b19149e185"><img src="https://img.shields.io/badge/IBM-SOC_SIEM_HIDS-0062CC?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM SOC SIEM HIDS" /></a>
+  <a href="https://www.credly.com/badges/aacdb6ba-7335-4860-910c-6fbca6a64998"><img src="https://img.shields.io/badge/IBM-Network_Security-0062CC?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Network Security" /></a>
+  <a href="https://www.credly.com/badges/022b4792-868b-4c7c-a8e0-c45404977be6"><img src="https://img.shields.io/badge/IBM-Intrusion_Detection-0062CC?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Intrusion Detection" /></a>
+  <a href="https://coursera.org/share/c3f271d87004b719075c98ab8f601294"><img src="https://img.shields.io/badge/IBM-Ethical_Hacking_Open_Source-801138?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Ethical Hacking Open Source" /></a>
+  <a href="https://www.credly.com/badges/84170157-6940-40c7-a50e-7308841c1f77"><img src="https://img.shields.io/badge/CCNA-Routing_%26_Switching-c51200?style=for-the-badge&logo=cisco&logoColor=white" alt="CCNA Routing and Switching" /></a>
+  <a href="https://www.credly.com/badges/8f035133-5e4a-4bfe-9387-f7d0a6437c42"><img src="https://img.shields.io/badge/CCNA-Introduction_to_Networks-c51200?style=for-the-badge&logo=cisco&logoColor=white" alt="CCNA Introduction to Networks" /></a>
+  <a href="https://www.credly.com/badges/b109937d-68aa-4f1f-9d4a-286425e8d3b1"><img src="https://img.shields.io/badge/IBM-Cybersecurity_Analyst-0062CC?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Cybersecurity Analyst" /></a>
+  <a href="https://www.credly.com/badges/b3f1d919-5ec7-438a-82ca-7e2571b16e02"><img src="https://img.shields.io/badge/IBM-Cybersecurity_Analyst_V2-0062CC?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Cybersecurity Analyst V2" /></a>
 
-[![SUMMUS](https://img.shields.io/badge/SUMMUS-Extreme_Red_Team-red?style=for-the-badge&logo=target&logoColor=white)](https://credsverse.com/credentials/3d30bda4-5f6a-4149-bf0e-28e7264e9be2?preview=1)
-[![IBM CyberSec Analyst](https://img.shields.io/badge/IBM_Cybersecurity_Analyst-Professional-0062CC?style=for-the-badge&logo=ibm&logoColor=white)](https://www.credly.com/badges/80568e6c-32d5-4876-8648-d16ff843d2cb)
-[![IBM Threat Mgmt](https://img.shields.io/badge/IBM-Threat_Management-0062CC?style=for-the-badge&logo=ibm&logoColor=white)](https://www.credly.com/badges/06aa3786-dbbd-4bf7-aeda-548c2336793a)
-[![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacking-Capstone-0062CC?style=for-the-badge&logo=ibm&logoColor=white)](https://www.credly.com/badges/ff7ba4e0-1460-4592-8c8f-6593f0cec618)
-[![IBM Assessment](https://img.shields.io/badge/IBM-Assessment_%26_Testing-0062CC?style=for-the-badge&logo=ibm&logoColor=white)](https://www.credly.com/badges/1e3cf2ae-0030-4191-8a0c-c1a54d2be4e0)
-[![IBM SOC/SIEM](https://img.shields.io/badge/IBM-SOC_SIEM_HIDS-0062CC?style=for-the-badge&logo=ibm&logoColor=white)](https://www.credly.com/badges/fb0798e6-f26b-4b28-8f50-85b19149e185)
-[![IBM NetSec](https://img.shields.io/badge/IBM-Network_Security-0062CC?style=for-the-badge&logo=ibm&logoColor=white)](https://www.credly.com/badges/aacdb6ba-7335-4860-910c-6fbca6a64998)
-[![IBM Intrusion](https://img.shields.io/badge/IBM-Intrusion_Detection-0062CC?style=for-the-badge&logo=ibm&logoColor=white)](https://www.credly.com/badges/022b4792-868b-4c7c-a8e0-c45404977be6)
-[![IBM Ethical Hacking](https://img.shields.io/badge/IBM-Ethical_Hacking_Open_Source-801138?style=for-the-badge&logo=ibm&logoColor=white)](https://coursera.org/share/c3f271d87004b719075c98ab8f601294)
-[![CCNA](https://img.shields.io/badge/CCNA-Routing_%26_Switching-c51200?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/badges/84170157-6940-40c7-a50e-7308841c1f77)
-[![CCNA ITN](https://img.shields.io/badge/CCNA-Introduction_to_Networks-c51200?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/badges/8f035133-5e4a-4bfe-9387-f7d0a6437c42)
-[![IBM CyberSec](https://img.shields.io/badge/IBM-Cybersecurity_Analyst-0062CC?style=for-the-badge&logo=ibm&logoColor=white)](https://www.credly.com/badges/b109937d-68aa-4f1f-9d4a-286425e8d3b1)
-[![IBM CyberSec V2](https://img.shields.io/badge/IBM-Cybersecurity_Analyst_V2-0062CC?style=for-the-badge&logo=ibm&logoColor=white)](https://www.credly.com/badges/b3f1d919-5ec7-438a-82ca-7e2571b16e02)
+  <h3>⏳ In Progress</h3>
 
-### ⏳ In Progress
-[![OSCP](https://img.shields.io/badge/OSCP-In_Progress-ff3333?style=for-the-badge&labelColor=0d1117)](https://www.offsec.com)
-[![OSEP](https://img.shields.io/badge/OSEP-In_Progress-ff3333?style=for-the-badge&labelColor=0d1117)](https://www.offsec.com)
-[![CRTP](https://img.shields.io/badge/CRTP-In_Progress-ff3333?style=for-the-badge&labelColor=0d1117)](https://www.alteredsecurity.com)
-[![CRTE](https://img.shields.io/badge/CRTE-In_Progress-ff3333?style=for-the-badge&labelColor=0d1117)](https://www.alteredsecurity.com)
-[![CRTO](https://img.shields.io/badge/CRTO-In_Progress-ff3333?style=for-the-badge&labelColor=0d1117)](https://training.zeropointsecurity.co.uk)
-
+  <a href="https://www.offsec.com"><img src="https://img.shields.io/badge/OSCP-In_Progress-ff3333?style=for-the-badge&labelColor=0d1117" alt="OSCP in progress" /></a>
+  <a href="https://www.offsec.com"><img src="https://img.shields.io/badge/OSEP-In_Progress-ff3333?style=for-the-badge&labelColor=0d1117" alt="OSEP in progress" /></a>
+  <a href="https://www.alteredsecurity.com"><img src="https://img.shields.io/badge/CRTP-In_Progress-ff3333?style=for-the-badge&labelColor=0d1117" alt="CRTP in progress" /></a>
+  <a href="https://www.alteredsecurity.com"><img src="https://img.shields.io/badge/CRTE-In_Progress-ff3333?style=for-the-badge&labelColor=0d1117" alt="CRTE in progress" /></a>
+  <a href="https://training.zeropointsecurity.co.uk"><img src="https://img.shields.io/badge/CRTO-In_Progress-ff3333?style=for-the-badge&labelColor=0d1117" alt="CRTO in progress" /></a>
 </div>
 
 ---
 
-## <img src="https://i.postimg.cc/ZKWgR2M9/Software-Tools.gif" width="45" /> Tools & Arsenal
+## <img src="https://i.postimg.cc/ZKWgR2M9/Software-Tools.gif" width="45" alt="" /> Tools & Arsenal
 
 ### 🔴 Offensive & Pentesting Tools
+
 [![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white)](https://portswigger.net)
 [![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)](https://www.metasploit.com)
 [![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)](https://nmap.org)
 [![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)](https://www.wireshark.org)
 
 ### 🎭 C2, Phishing & Pivoting
+
 [![Ligolo-ng](https://img.shields.io/badge/Ligolo_ng-black?style=for-the-badge&color=121014)](https://github.com/nicocha30/ligolo-ng)
 [![Adaptix C2](https://img.shields.io/badge/Adaptix_C2-black?style=for-the-badge&color=121014)](https://github.com/Adaptix-Framework/Adaptix)
 [![Beacons & Implants](https://img.shields.io/badge/Beacons__Implants-black?style=for-the-badge&color=121014)](https://github.com/topics/command-control)
 [![SSH Multi-Hop](https://img.shields.io/badge/SSH_Multi_Hop-black?style=for-the-badge&color=121014)](https://www.ssh.com/academy/ssh/tunneling)
 
 ### 🏰 Active Directory & Credential Attacks
+
 [![BloodHound](https://img.shields.io/badge/BloodHound-black?style=for-the-badge&color=121014)](https://github.com/SpecterOps/BloodHound)
 [![SharpHound](https://img.shields.io/badge/SharpHound-black?style=for-the-badge&color=121014)](https://github.com/SpecterOps/BloodHound)
 [![RustHound](https://img.shields.io/badge/RustHound-black?style=for-the-badge&color=121014)](https://github.com/NHAS/RustHound)
@@ -164,17 +164,20 @@
 [![Adidnsdump](https://img.shields.io/badge/Adidnsdump-black?style=for-the-badge&color=121014)](https://github.com/dirkjanm/adidnsdump)
 
 ### 🌐 Network & Vulnerability Scanning
+
 [![Nessus](https://img.shields.io/badge/Nessus-00C176?style=for-the-badge&logo=tenable&logoColor=white)](https://www.tenable.com/products/nessus)
 [![OpenVAS](https://img.shields.io/badge/OpenVAS-4CAF50?style=for-the-badge&logo=openvas&logoColor=white)](https://www.openvas.org)
 [![Masscan](https://img.shields.io/badge/Masscan-FF4500?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/robertdavidgraham/masscan)
 
 ### 🔬 Forensics & Reverse Engineering
+
 [![Ghidra](https://img.shields.io/badge/Ghidra-FF0000?style=for-the-badge&logo=nsa&logoColor=white)](https://ghidra-sre.org)
 [![IDA Pro](https://img.shields.io/badge/IDA_Pro-0073A7?style=for-the-badge&logo=hexo&logoColor=white)](https://hex-rays.com/ida-pro/)
 [![x64dbg](https://img.shields.io/badge/x64dbg-black?style=for-the-badge&logo=linux&logoColor=lime)](https://x64dbg.com)
 [![Sysinternals](https://img.shields.io/badge/Sysinternals-black?style=for-the-badge&logo=linux&logoColor=lime)](https://learn.microsoft.com/en-us/sysinternals/)
 
 ### ⚙️ Dev & Automation Tools
+
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
@@ -183,7 +186,7 @@
 
 ---
 
-## <img src="https://i.postimg.cc/VkYz479j/Programming-Languages.gif" width="45" /> Programming & Scripting
+## <img src="https://i.postimg.cc/VkYz479j/Programming-Languages.gif" width="45" alt="" /> Programming & Scripting
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
@@ -198,7 +201,7 @@
 
 ---
 
-## <img src="https://i.postimg.cc/3J7MHnSW/os.gif" width="45" /> Operating Systems
+## <img src="https://i.postimg.cc/3J7MHnSW/os.gif" width="45" alt="" /> Operating Systems
 
 [![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)](https://www.kali.org)
 [![Parrot OS](https://img.shields.io/badge/Parrot_OS-15E0ED?style=for-the-badge&logo=linux&logoColor=black)](https://www.parrotsec.org)
@@ -226,7 +229,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/FaresBadaj/FaresBadaj/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/FaresBadaj/FaresBadaj/output/github-contribution-grid-snake-dark.svg" alt="Contribution graph snake animation" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=120&section=footer" alt="Footer" />
