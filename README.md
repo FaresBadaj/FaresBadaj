@@ -281,7 +281,7 @@ After you have your TryHackMe badge image URLs, add them here:
 
 ---
 
-## 📊 GitHub Stats
+## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width="45" alt="" /> GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FaresBadaj&show_icons=true&theme=radical&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&bg_color=0d1117&border_color=00ff41&hide_border=false" alt="GitHub Stats" height="180" />
