@@ -211,6 +211,76 @@
 
 ---
 
+## 🧩 CTF & Cyber Profiles
+
+<div align="center">
+  <a href="https://flagyard.com/profile/0d98516b-b90b-4841-b4a5-c5170f1741c3"><img src="https://img.shields.io/badge/FlagYard-Profile-00ff41?style=for-the-badge&labelColor=0d1117" alt="FlagYard profile" /></a>
+  <a href="https://www.credly.com/users/faresbadaj"><img src="https://img.shields.io/badge/Credly-Certifications-ff6b00?style=for-the-badge&labelColor=0d1117" alt="Credly certifications" /></a>
+  <a href="https://github.com/FaresBadaj"><img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub projects" /></a>
+</div>
+
+---
+
+## 🟩 TryHackMe Badges
+
+<div align="center">
+  <!-- Replace YOUR_TRYHACKME_USERNAME with your TryHackMe username to show your badge card. -->
+  <a href="https://tryhackme.com/"><img src="https://img.shields.io/badge/TryHackMe-Add_Your_Badges-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe badges" /></a>
+</div>
+
+<!--
+After you have your TryHackMe badge image URLs, add them here:
+
+<div align="center">
+  <a href="https://tryhackme.com/p/YOUR_TRYHACKME_USERNAME">
+    <img src="YOUR_TRYHACKME_BADGE_URL" alt="TryHackMe badge" height="90" />
+  </a>
+</div>
+-->
+
+---
+
+## ✍️ Community & Content
+
+- 🔐 **Cybersecurity Writer** — [Medium](https://medium.com/@faresbadaj) | Writeups, research, and security insights
+- 🏁 **CTF Player** — [FlagYard](https://flagyard.com/profile/0d98516b-b90b-4841-b4a5-c5170f1741c3) | Challenges, writeups, and solver scripts
+- 💻 **Open-Source Security Projects** — [GitHub](https://github.com/FaresBadaj) | Security tooling, automation, and research
+- 🔗 **Links** — [LinkedIn](https://www.linkedin.com/in/FaresBadaj) · [Telegram](https://t.me/ptok3) · [Credly](https://www.credly.com/users/faresbadaj)
+
+---
+
+## 💬 Ask Me About
+
+<div align="center">
+  <code>Web App Pentesting</code> ·
+  <code>Mobile Security</code> ·
+  <code>OWASP Top 10</code> ·
+  <code>CTF Challenges</code> ·
+  <code>Bug Bounty</code> ·
+  <code>Red Teaming</code> ·
+  <code>Python Scripting for Security</code> ·
+  <code>Active Directory</code> ·
+  <code>Digital Forensics</code>
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/FaresBadaj"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:faresbadaj@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://t.me/ptok3"><img src="https://img.shields.io/badge/TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://medium.com/@faresbadaj"><img src="https://img.shields.io/badge/MEDIUM-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+  <a href="https://github.com/FaresBadaj"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</div>
+
+<br>
+
+<h2 align="center">🟢 HackTheHellUp!</h2>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
