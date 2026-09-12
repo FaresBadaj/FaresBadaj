@@ -287,24 +287,9 @@
 ## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width="45" alt="" /> GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FaresBadaj&show_icons=true&theme=radical&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&bg_color=0d1117&border_color=00ff41&hide_border=false" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaresBadaj&layout=compact&theme=radical&title_color=00ff41&text_color=c9d1d9&bg_color=0d1117&border_color=00ff41" alt="Top Languages" height="180" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FaresBadaj&theme=dark&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FaresBadaj&theme=github_dark" alt="GitHub profile summary" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=FaresBadaj&theme=radical&row=2&column=4&margin-w=10&margin-h=10&no-bg=true&no-frame=true&title_color=00ff41" alt="GitHub Trophies" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FaresBadaj&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true&hide_title=false&title=Contribution%20Graph" alt="Contribution Graph" />
-</div>
-
-> **Note:** Top languages reflects public repository content, not overall skill level.
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/FaresBadaj/FaresBadaj/output/github-contribution-grid-snake-dark.svg" alt="Contribution graph snake animation" />
-</div>
+> **Note:** The summary reflects public repository activity and may take time to update.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=120&section=footer&text=HackTheHellUp!&fontSize=30&fontColor=00ff41&animation=fadeIn" alt="HackTheHellUp footer" />
