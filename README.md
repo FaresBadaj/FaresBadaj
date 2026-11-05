@@ -266,6 +266,13 @@
   <a href="https://flagyard.com/profile/0d98516b-b90b-4841-b4a5-c5170f1741c3"><img src="https://img.shields.io/badge/FlagYard-Profile-00ff41?style=for-the-badge&labelColor=0d1117" alt="FlagYard profile" /></a>
   <a href="https://www.credly.com/users/faresbadaj"><img src="https://img.shields.io/badge/Credly-Certifications-ff6b00?style=for-the-badge&labelColor=0d1117" alt="Credly certifications" /></a>
   <a href="https://github.com/FaresBadaj"><img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub projects" /></a>
+  <br><br>
+  <a href="https://flagyard.com/profile/0d98516b-b90b-4841-b4a5-c5170f1741c3"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.flagyard.com%2Fapi%2Fusers%2Fleaderboard%3Fsearch%3DFaresBadaj&query=%24.data.items%5B0%5D.rank&label=FlagYard%20Rank&style=for-the-badge&color=00ff41&labelColor=0d1117&prefix=%23" alt="FlagYard live global rank" /></a>
+  <a href="https://flagyard.com/profile/0d98516b-b90b-4841-b4a5-c5170f1741c3"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.flagyard.com%2Fapi%2Fusers%2Fleaderboard%3Fsearch%3DFaresBadaj&query=%24.data.items%5B0%5D.totalPoints&label=FlagYard%20Points&style=for-the-badge&color=00ff41&labelColor=0d1117&suffix=%20pts" alt="FlagYard live total points" /></a>
+  <a href="https://flagyard.com/profile/0d98516b-b90b-4841-b4a5-c5170f1741c3"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.flagyard.com%2Fapi%2Fusers%2Fleaderboard%3Fsearch%3DFaresBadaj&query=%24.data.items%5B0%5D.numberOfSolvedChallenges&label=FlagYard%20Solved&style=for-the-badge&color=00ff41&labelColor=0d1117&suffix=%20challs" alt="FlagYard live solved challenges" /></a>
+  <a href="https://flagyard.com/profile/0d98516b-b90b-4841-b4a5-c5170f1741c3"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.flagyard.com%2Fapi%2Fusers%2Fleaderboard%3Fsearch%3DFaresBadaj&query=%24.data.items%5B0%5D.playerLevel.nameEn&label=FlagYard%20Level&style=for-the-badge&color=00ff41&labelColor=0d1117" alt="FlagYard live player level" /></a>
+  <br>
+  <sub>🔄 Live stats pulled from the FlagYard leaderboard API</sub>
 </div>
 
 ---
