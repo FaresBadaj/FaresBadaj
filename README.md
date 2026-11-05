@@ -223,6 +223,12 @@
     <img src="https://img.shields.io/badge/1st_Place-Globally-00ff41?style=for-the-badge&labelColor=0d1117" alt="1st Place Globally" />
   </a>
   <br><br>
+  <a href="https://learn.eccouncil.org/certificate/efad95bc-8b75-49a4-9c46-80b90f89685c">
+    <img src="https://raw.githubusercontent.com/FaresBadaj/FaresBadaj/main/assets/eccouncil-ai-red-teaming-ctf-grand-master.png" width="800" alt="EC-Council AI Red Teaming CTF — Grand Master, 1st Place Globally" />
+  </a>
+  <br>
+  <sub><b>EC-Council AI Red Teaming CTF</b> — Grand Master · 1st Place Globally 🥇</sub>
+  <br><br>
   <a href="https://learn.eccouncil.org/certificate/efad95bc-8b75-49a4-9c46-80b90f89685c"><b>📜 View EC-Council Certificate</b></a>
 </div>
 
