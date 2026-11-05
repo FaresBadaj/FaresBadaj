@@ -32,7 +32,9 @@
   🏰  Active Directory & Multi-Cloud (AWS · Azure · GCP) Attack Chains
   🧠  Kerberos Abuse · Pivoting & Tunneling · EDR/AV Evasion Research
   🎓  BSc Cybersecurity & Networks — University of Science and Technology (2026)
-  🏅  Certified Extreme Red Team (SUMMUS) → OSCP · OSEP · CRTP · CRTE · CRTO
+  🏅  Certified Extreme Red Team (SUMMUS) · Certified Offensive Windows API (COWA)
+  🥇  EC-Council AI Red Teaming CTF — Grand Master · 1st Place Globally
+  🎯  OSCP · OSEP · CRTP · CRTE · CRTO (In Progress)
   🏁  CTF Player @ FlagYard | Writeups & Solver Scripts
   📍  Based in Riyadh, Saudi Arabia
 ```
@@ -109,6 +111,7 @@
 <div align="center">
   <h3>✅ Certified</h3>
 
+  <a href="https://courses.redteamleaders.com/exam-completion/597b42ea1139e719"><img src="https://img.shields.io/badge/COWA-Certified_Offensive_Windows_API-8A2BE2?style=for-the-badge&logo=windows&logoColor=white" alt="Certified Offensive Windows API (COWA)" /></a>
   <a href="https://credsverse.com/credentials/3d30bda4-5f6a-4149-bf0e-28e7264e9be2?preview=1"><img src="https://img.shields.io/badge/SUMMUS-Extreme_Red_Team-red?style=for-the-badge&logo=target&logoColor=white" alt="SUMMUS Extreme Red Team" /></a>
   <a href="https://www.credly.com/badges/80568e6c-32d5-4876-8648-d16ff843d2cb"><img src="https://img.shields.io/badge/IBM_Cybersecurity_Analyst-Professional-0062CC?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Cybersecurity Analyst Professional" /></a>
   <a href="https://www.credly.com/badges/06aa3786-dbbd-4bf7-aeda-548c2336793a"><img src="https://img.shields.io/badge/IBM-Threat_Management-0062CC?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Threat Management" /></a>
@@ -210,6 +213,23 @@
 
 ---
 
+## 🏆 Awards
+
+<div align="center">
+  <a href="https://learn.eccouncil.org/certificate/efad95bc-8b75-49a4-9c46-80b90f89685c">
+    <img src="https://img.shields.io/badge/EC--Council_AI_Red_Teaming_CTF-Grand_Master-FFD700?style=for-the-badge&labelColor=0d1117" alt="EC-Council AI Red Teaming CTF — Grand Master" />
+  </a>
+  <a href="https://learn.eccouncil.org/certificate/efad95bc-8b75-49a4-9c46-80b90f89685c">
+    <img src="https://img.shields.io/badge/1st_Place-Globally-00ff41?style=for-the-badge&labelColor=0d1117" alt="1st Place Globally" />
+  </a>
+  <br><br>
+  <a href="https://learn.eccouncil.org/certificate/efad95bc-8b75-49a4-9c46-80b90f89685c"><b>📜 View EC-Council Certificate</b></a>
+</div>
+
+<br>
+
+---
+
 ## 🏆 Achievements & CTF Hall of Fame
 
 <div align="center">
@@ -218,6 +238,11 @@
       <th>Event</th>
       <th>Achievement</th>
       <th>Challenge Breakdown</th>
+    </tr>
+    <tr>
+      <td><b>EC-Council AI Red Teaming CTF</b></td>
+      <td><b>Grand Master</b> — <b>1st Place Globally</b> 🥇</td>
+      <td>AI Red Teaming · Offensive AI · LLM Exploitation</td>
     </tr>
     <tr>
       <td><b>Black Hat 2026</b></td>
